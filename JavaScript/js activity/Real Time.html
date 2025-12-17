@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Time Validation</title>
+</head>
+<body>
+    <form>
+  <input type="text" id="username" placeholder="Username" oninput="checkUsername()">
+  <span id="userErr" style="color:red"></span><br><br>
+
+  <input type="text" id="email" placeholder="Email" oninput="checkEmail()">
+  <span id="emailErr" style="color:red"></span><br><br>
+
+  <input type="password" id="password" placeholder="Password" oninput="checkPassword()">
+  <span id="passErr" style="color:red"></span><br><br>
+  <button type="submit">Submit</button>
+</form>
+
+<script>
+function checkUsername() {
+  let u = username.value;
+  userErr.innerText = u.length < 5 ? "Username is too short" : "";
+}
+
+function checkEmail() {
+  let p = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  emailErr.innerText = p.test(email.value) ? "" : "Invalid email format";
+}
+
+function checkPassword() {
+  passErr.innerText = password.value.length < 6
+    ? "Password must be at least 6 characters"
+    : "";
+}
+</script> 
+</body>
+</html>

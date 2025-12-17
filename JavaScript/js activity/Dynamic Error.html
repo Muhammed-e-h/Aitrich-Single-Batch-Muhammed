@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Error Messages</title>
+</head>
+<body>
+    <form onsubmit="return validate()">
+  <input type="text" id="username" placeholder="Username">
+  <span id="error" style="color:red"></span><br><br>
+  <button>Submit</button>
+</form>
+
+<script>
+function validate() {
+  let user = document.getElementById("username").value;
+  let error = document.getElementById("error");
+
+  if (user.length < 5) {
+    error.innerText = "Minimum 5 characters required";
+    return false;
+  }
+  error.innerText = "";
+  alert("Wrong Username");
+  return true;
+}
+</script>
+</body>
+</html>

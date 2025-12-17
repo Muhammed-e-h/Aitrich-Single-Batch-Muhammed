@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+
+  <h1 id="head">Welcome</h1>
+  <h2 id="head1">Hello Meera</h2>
+
+  <button onclick="changetext()">Click Me</button>
+
+
+
+  <script>
+    let a = document.getElementById("head");
+    a.innerHTML = "<i> Welcome to kerala</i>";
+    a.style.color = "blue";
+    function changetext() {
+      let b = document.getElementById("head1");
+      b.innerText = "Welcome Meera";
+    }
+  </script>
+</body>
+
+</html>

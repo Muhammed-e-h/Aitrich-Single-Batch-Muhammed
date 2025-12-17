@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Validation</title>
+</head>
+<body>
+    <form onsubmit="return validateForm()">
+    <label>Username:</label><br>
+    <input type="text" id="username"><br><br>
+
+    <label>Email:</label><br>
+    <input type="text" id="email"><br><br>
+
+    <button type="submit">Submit</button>
+  </form>
+  <script>
+    function validateForm() {
+      let username = document.getElementById("username").value;
+      let email = document.getElementById("email").value;
+
+      
+      if (username === "" || email === "") {
+        alert("Username um Email um fill cheyyanam");
+        return false;
+      }
+
+      
+      let emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+      if (!emailPattern.test(email)) {
+        alert("Invalid Email enter currect Email");
+        return false;
+      }
+
+      return true; // form submit aavum
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Username Length Validation</title>
+</head>
+<body>
+   <form onsubmit="return ValidateUsername()">
+    <label>Username:</label><br>
+    <input type="text"id="username"><br><br>
+    <button type="submit">Submit</button>
+   </form> 
+   <script>
+    function ValidateUsername()
+    {
+        let username=document.getElementById("username").value;
+        if(username ===""){
+        alert("fill the username");
+        return false;
+    }
+    if(username.length <5){
+         alert("Minimun character needs to be 5");
+        return false;
+    }
+    
+        return true;
+    }
+   </script>
+</body>
+</html>

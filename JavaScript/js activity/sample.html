@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- change text -->
+    <p id="msg">Click the button to save</p>
+    <button style="width: 50px; height: 20px; background-color: blue;"
+        onclick='document.getElementById("msg").innerHTML="Saved Successfully"'>Save</button>
+    <br><br><br>
+    <!-- image creation -->
+
+
+    <img src="" id="logo">
+
+
+
+
+    <button onclick="changeimage()">View Logo</button>
+    <button onclick="changeimage1()">View Profile Pic</button>
+    <script>
+        function changeimage() {
+            let a = document.getElementById("logo");
+            a.src = "logo.png";
+            a.style.width = "80px";
+            a.style.height = "100px";
+        }
+        function changeimage1() {
+            let b = document.getElementById("logo");
+            b.src = "profile pic.avif";
+            b.style.width = "80px";
+            b.style.height = "100px";
+        }
+    </script>
+    <br><br><br>
+    <!-- make me  -->
+
+    <p id="big">Make Me Big</p>
+
+    <button onclick="changetext()">Click Me</button>
+    <script>
+        function changetext()
+        {
+            let f=document.getElementById("big");
+            f.style.color="red";
+            f.style.fontWeight="bold";
+        }
+    </script>
+
+    <br><br><br>
+    <!-- hide me -->
+
+    <p id="hide">Hide Me</p>
+
+    <button onclick="changetext2()">Click Me</button>
+
+    <script>
+        function changetext2()
+        {
+            let hide=document.getElementById("hide");
+            hide.style.display="none";
+        }
+    </script>
+    <br><br><br>
+    
+</body>
+
+</html>

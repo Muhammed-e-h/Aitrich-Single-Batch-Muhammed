@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <p id="para1">Sentence Has Changed</p>
+     <button id="btn">Sumbit</button>
+     <script>
+        let para1=document.getElementById("para1");
+        let btn=document.getElementById("btn");
+        btn.addEventListener("click",function(){
+            para1.innerText="Successfully Changed"
+        });
+     </script>
+
+     <p id="msg">Hello World</p>
+     <button id="mod">Click</button>
+     <script>
+        function changeText()
+        {
+            msg.innerText="Hello Dom"
+        }
+        mod.addEventListener('click',changeText);
+     </script>
+     <p id="clr" onmouseover="changes()">New sample</p>
+     <button id="loop">click Me</button>
+     <script>
+        function changes()
+        {
+            let sample=document.getElementById("clr");
+            sample.style.backgroundColor="red";
+            sample.style.width="100px";
+            sample.style.borderRadius="10px";
+        }
+        let sample=document.getElementById("clr");
+        let me=document.getElementById("loop");
+        me.addEventListener("click",function(){
+            sample.innerText="Big Sample"
+        });
+     </script>
+     <br><br>
+     <!-- mouse events -->
+      <div id="myDiv">Hover Over Me</div>
+       <script>
+        let mouse=document.getElementById("myDiv");
+        mouse.addEventListener("Mouseover",function(){
+            mouse.innerText="Mouse Over Me";
+            mouse.style.backgroundColor="red";
+        });
+        // addEventListener.mouseout
+        mouse.addEventListener("mouseout",function(){
+            mouse.innerText="Hover Over Me";
+            mouse.style.backgroundColor="blue";
+            mouse.style.width="150px";
+            mouse.style.borderRadius="10px";
+        });
+        // addEventListener.alert
+        mouse.addEventListener("click",function(){
+            alert("Div Clicked!");
+        });
+       </script>
+</body>
+</html>

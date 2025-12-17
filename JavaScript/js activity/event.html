@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <input type="button" value="submit" onkeypress="keychange()">
+</head>
+<body>
+    <!-- keychange -->
+    <script>
+        function keychange()
+        {
+            alert("Your food is Orderd Successfully");
+        }
+    </script>
+    <!-- onfocus -->
+    <h3>Enter your Name here</h3>
+    <input type="text" onfocus="dispayN()"id="value1">
+    <p id="pera"></p>
+    <script>
+        function dispayN()
+        {
+            let focus=document.getElementById("pera");
+            focus.innerText="You are typing........";
+            focus.style.color="grey";
+        }
+    </script>
+    <!-- onmouseover -->
+    <p id="mouse" onmouseover="changes()">Hover Me</p>
+    <script>
+        function changes()
+        {
+            let hover=document.getElementById("mouse");
+            hover.style.backgroundColor="red";
+            hover.style.width="80px";
+            hover.style.height="20px";
+            hover.style.borderRadius="10px";
+        }
+    </script>
+    <!-- onmouse enter -->
+    <p id="chng" onmouseover="changes01()">Mouse Enter</p>
+    <script>
+        function changes01()
+        {
+            let change=document.getElementById("chng");
+            change.style.backgroundColor="yellow";
+            change.style.borderRadius="10px";
+            change.style.width="100px";
+        }
+    </script>
+    <!-- onmouse move -->
+    <p id="move" onmousemove="changes02()">Move</p>
+    <script>
+        function changes02()
+        {
+            let mos=document.getElementById("move");
+            mos.style.backgroundColor="pink";
+            mos.style.width="200px";
+            mos.style.borderRadius="10px";
+        }
+    </script>
+    <br>
+    <p></p>
+   
+
+</body>
+</html>

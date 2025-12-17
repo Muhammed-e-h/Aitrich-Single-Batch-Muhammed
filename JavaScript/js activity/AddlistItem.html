@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul id="myList"></ul>
+    <script>
+        let newItem = document.createElement("li");
+        newItem.textContent = "New Item";   
+
+    let list = document.getElementById("myList"); 
+    list.appendChild(newItem);    
+          
+    </script>
+    
+    <div id="content"></div>
+
+<script>
+  let para = document.createElement("p");
+  para.textContent = "Hello World";
+
+  let contentBox = document.getElementById("content");
+  contentBox.appendChild(para);
+</script>
+<div id="container"></div>
+
+<script>
+  let colors = ["red", "green", "blue"];
+
+  for (let i = 0; i < 3; i++) {
+    let box = document.createElement("div");
+    box.style.width = "100px";
+    box.style.height = "100px";
+    box.style.margin = "10px";
+    box.style.backgroundColor = colors[i];
+
+    document.getElementById("container").appendChild(box);
+  }
+</script>
+<div id="formDiv"></div>
+<div id="result"></div>
+
+<script>
+  // Input create
+  let inputBox = document.createElement("input");
+  inputBox.type = "text";
+  inputBox.placeholder = "Type something...";
+
+  // Button create
+  let btn = document.createElement("button");
+  btn.textContent = "Show Text";
+
+  // formDiv-ലേക്ക് ചേർക്കുന്നു
+  let form = document.getElementById("formDiv");
+  form.appendChild(inputBox);
+  form.appendChild(btn);
+
+  // Button click പ്രോഗ്രാം
+  btn.addEventListener("click", function () {
+    let para = document.createElement("p");
+    para.textContent = inputBox.value;
+
+    document.getElementById("result").appendChild(para);
+  });
+</script>
+<!-- Remove Section -->
+ <ul id="myList">
+  <li id="item1">Item 1</li>
+  <li id="item2">Item 2</li>
+  <li id="item3">Item 3</li>
+</ul>
+
+<script>
+  let item = document.getElementById("item2");
+  item.remove(); 
+</script>
+
+<ul id="myList">
+  <li>Apple</li>
+  <li>Orange</li>
+  <li>Banana</li>
+</ul>
+
+<script>
+  let lis = document.getElementById("myList");
+  let lastItem = list.lastElementChild;
+
+  list.removeChild(lastItem);
+</script>
+
+<ul id="myList">
+  <li>Apple</li>
+  <li>Orange</li>
+  <li>Banana</li>
+</ul>
+
+<script>
+  let next = document.getElementById("myList");
+  let lastItems = list.lastElementChild;
+
+  list.removeChild(lastItem);
+</script>
+
+<div id="paraBox">
+</div>
+
+<script>
+  
+  let texts = ["Para 1", "Para 2", "Para 3"];
+
+  let box = document.getElementById("paraBox");
+
+  texts.forEach(text => {
+    let p = document.createElement("p");
+    p.textContent = text;
+
+    let btn = document.createElement("button");
+    btn.textContent = "Delete";
+
+  
+    btn.addEventListener("click", function () {
+      p.remove(); 
+    });
+
+    p.appendChild(btn);
+    box.appendChild(p);
+  });
+</script>
+</body>
+</html>

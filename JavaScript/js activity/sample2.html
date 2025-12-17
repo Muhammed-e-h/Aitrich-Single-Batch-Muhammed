@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="olr">Hello Dom</h1>
+    <button onclick="changetext2()">Click</button>
+    <script>
+        function changetext2()
+        {
+            let cat=document.getElementById("olr");
+            cat.innerHTML="DOM Practice Session";
+        }
+    </script>
+    <br><br>
+    <p id="plr">Make It</p>
+    <button onclick="changetext1()">Click Me</button>
+    <script>
+        function changetext1()
+        {
+            let wow=document.getElementById("plr");
+            wow.style.fontWeight="bold";
+            wow.style.color="red";
+        }
+    </script>
+    <br><br>
+
+    <img src=""  id="cip">
+    <button onclick="changeimage4()">Click</button>
+    <button onclick="changeimage5()">Click</button>
+
+    <script>
+        function changeimage4()
+        {
+            let pic=document.getElementById("cip");
+            pic.src="logo.png";
+            pic.style.width="80px";
+            pic.style.height="100px";
+        }
+        function changeimage5()
+        {
+            let pic=document.getElementById("cip");
+            pic.src="profile pic.avif";
+            pic.style.width="80px";
+            pic.style.height="100px";  
+        }
+    </script>
+    <br>
+    <div id="link"><a href="www.google.com">View Google</a></div>
+    <div onclick="changetext()"></div>
+    <script>
+        function changetext()
+        {
+            let id=document.getElementById("link");  
+        }
+    </script>
+    <br>
+    <p id="bttn"><button onclick="changetext3()">Start Now</button></p>
+    <script>
+        function changetext3()
+        {
+            let now=document.getElementById("bttn");
+        }
+    </script>
+    <br>
+    <p onclick="changetext0()" id="rim">Sample One</p>
+    <script>
+        function changetext0()
+        {
+            let vam=document.getElementById("rim");
+            vam.style.backgroundColor="lightgreen";
+            vam.style.width="100px";
+            vam.style.height="30px";
+            vam.style.borderRadius="10px";
+        }
+    </script>
+    <br>
+    <h2 onclick="changetext9()" id="inc">Sample Two</h2>
+    <script>
+        function changetext9()
+        {
+            let kind=document.getElementById("inc");
+            kind.style.fontStyle="28px";
+        }
+    </script>
+    <br>
+    <div onclick="changetext09()" id="one">List out</div>
+    <script>
+        function changetext09()
+        {
+            let bit=document.getElementById("one");
+            bit.classList.add("active");
+            bit.innerHTML="List add inn one";
+        }
+         function changetext09()
+            {
+                bit.classList.remove("active");
+                bit.innerHTML="List Removed";
+            }
+        function changetext09()
+        {
+            bit.classList.toggle("active");
+        }    
+    </script>
+    <br>
+    <span onclick="changetext01()" id="spn">Welcome to Kashmir</span>
+    <script>
+        function changetext01()
+        {
+            let under=document.getElementById("spn");
+            under.style.textDecoration="underline";
+        }
+    </script>
+    <br>
+    <p onclick="changetext02()" id="js">Hello World</p>
+    <script>
+        function changetext02()
+        {
+            let txt=document.getElementById("js");
+            txt.innerHTML="Hello JavaScript";
+        }
+    </script>
+    <br>
+    <p id="cnsl">Hello JavaScript</p>
+    <script>
+        let cnsl=document.getElementById("cnsl");
+        console.log(cnsl.textContent.length);
+    </script>
+    <br>
+    <img id="imc" src="logo.png" alt="old txt">
+    <script>
+        let img=document.getElementById("imc");
+        img.style.width="100px";
+        img.style.height="50px";
+        img.innerHTML="Beautiful Scenery";
+        
+    </script>
+    <br>
+    <div id="hiio" style="display: block;">Hello World</div>
+    <script>
+        changetext03()
+        {
+            let pio=document.getElementById("hiio")
+            pio.style.display="none";
+        }
+    </script>
+    
+</body>
+</html>

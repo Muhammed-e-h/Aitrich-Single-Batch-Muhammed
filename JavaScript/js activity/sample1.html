@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- hide on text  -->
+    <p id="happy" style="display: none;">HAPPY BIRTHDAY</p>
+    <button onclick="changetext()">Click Me</button>
+    <script>
+        function changetext()
+        {
+            let hii=document.getElementById("happy");
+            hii.style.display="block";
+        }
+    </script>
+    <p id="dom">Hello world</p>
+    <button onclick="changetext1()">Click</button>
+    <script>
+        function changetext1()
+        {
+            let hello=document.getElementById("dom");
+            hello.innerHTML="Hello Dom";
+        }
+    </script>
+    <br><br>
+    <img src="" id="img">
+    <button onclick="changetext2()">Click Me</button>
+    <script>
+        function changetext2()
+        {
+            let logi=document.getElementById("img");
+            logi.src="logo.png";
+            logi.style.width="80px";
+            logi.style.height="100px";
+        }
+    </script>
+    <br><br><br>
+
+    <p id="color" style="color:blue">Hello Muhammed</p>
+    <button onclick="changetext3()">Click</button>
+    <script>
+        function changetext3()
+        {
+            let clr=document.getElementById("color");
+            clr.innerHTML="Welcome Muhammed";
+            clr.style.width="160px";
+            clr.style.height="30px";
+            clr.style.borderRadius="10px";
+            clr.style.backgroundColor="red";
+        }
+    </script>
+
+</body>
+</html>
