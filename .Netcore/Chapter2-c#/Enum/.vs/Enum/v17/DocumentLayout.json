@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MY CLASS\\BACKEND\\C#\\Activity\\Enum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE65D3-D4EB-409C-81D2-0CDC6A942A99}|Enum\\Enum.csproj|e:\\my class\\backend\\c#\\activity\\enum\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE65D3-D4EB-409C-81D2-0CDC6A942A99}|Enum\\Enum.csproj|solutionrelative:enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE65D3-D4EB-409C-81D2-0CDC6A942A99}|Enum\\Enum.csproj|e:\\my class\\backend\\c#\\activity\\enum\\enum\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE65D3-D4EB-409C-81D2-0CDC6A942A99}|Enum\\Enum.csproj|solutionrelative:enum\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA71874A-11C3-47C8-A500-82178B4F1DB5}|TraficEnum\\TraficEnum.csproj|e:\\my class\\backend\\c#\\activity\\enum\\traficenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA71874A-11C3-47C8-A500-82178B4F1DB5}|TraficEnum\\TraficEnum.csproj|solutionrelative:traficenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MY CLASS\\BACKEND\\C#\\Activity\\Enum\\TraficEnum\\Program.cs",
+              "RelativeDocumentMoniker": "TraficEnum\\Program.cs",
+              "ToolTip": "E:\\MY CLASS\\BACKEND\\C#\\Activity\\Enum\\TraficEnum\\Program.cs",
+              "RelativeToolTip": "TraficEnum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:46:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Colors.cs",
+              "DocumentMoniker": "E:\\MY CLASS\\BACKEND\\C#\\Activity\\Enum\\Enum\\Colors.cs",
+              "RelativeDocumentMoniker": "Enum\\Colors.cs",
+              "ToolTip": "E:\\MY CLASS\\BACKEND\\C#\\Activity\\Enum\\Enum\\Colors.cs",
+              "RelativeToolTip": "Enum\\Colors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:44:08.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MY CLASS\\BACKEND\\C#\\Activity\\Enum\\Enum\\Program.cs",
+              "RelativeDocumentMoniker": "Enum\\Program.cs",
+              "ToolTip": "E:\\MY CLASS\\BACKEND\\C#\\Activity\\Enum\\Enum\\Program.cs",
+              "RelativeToolTip": "Enum\\Program.cs",
+              "ViewState": "AgIAABYAAACgx4stwbcFwA8AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:10:02.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

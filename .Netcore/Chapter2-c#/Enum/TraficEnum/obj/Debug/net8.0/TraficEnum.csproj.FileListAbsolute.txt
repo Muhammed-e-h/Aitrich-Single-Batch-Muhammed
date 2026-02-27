@@ -1,0 +1,14 @@
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\bin\Debug\net8.0\TraficEnum.exe
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\bin\Debug\net8.0\TraficEnum.deps.json
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\bin\Debug\net8.0\TraficEnum.runtimeconfig.json
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\bin\Debug\net8.0\TraficEnum.dll
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\bin\Debug\net8.0\TraficEnum.pdb
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\obj\Debug\net8.0\TraficEnum.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\obj\Debug\net8.0\TraficEnum.AssemblyInfoInputs.cache
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\obj\Debug\net8.0\TraficEnum.AssemblyInfo.cs
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\obj\Debug\net8.0\TraficEnum.csproj.CoreCompileInputs.cache
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\obj\Debug\net8.0\TraficEnum.dll
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\obj\Debug\net8.0\refint\TraficEnum.dll
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\obj\Debug\net8.0\TraficEnum.pdb
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\obj\Debug\net8.0\TraficEnum.genruntimeconfig.cache
+E:\MY CLASS\BACKEND\C#\Activity\Enum\TraficEnum\obj\Debug\net8.0\ref\TraficEnum.dll

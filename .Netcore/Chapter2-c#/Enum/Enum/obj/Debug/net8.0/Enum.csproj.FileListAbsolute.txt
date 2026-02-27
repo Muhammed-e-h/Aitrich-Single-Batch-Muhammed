@@ -1,0 +1,14 @@
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\bin\Debug\net8.0\Enum.exe
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\bin\Debug\net8.0\Enum.deps.json
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\bin\Debug\net8.0\Enum.dll
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\bin\Debug\net8.0\Enum.pdb
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\obj\Debug\net8.0\Enum.dll
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\obj\Debug\net8.0\refint\Enum.dll
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\obj\Debug\net8.0\Enum.pdb
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+E:\MY CLASS\BACKEND\C#\Activity\Enum\Enum\obj\Debug\net8.0\ref\Enum.dll
