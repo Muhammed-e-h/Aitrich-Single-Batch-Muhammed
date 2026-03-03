@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 2\\Workshop\\WorkShop-1\\AdminProfile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0436B212-65C6-4CCC-BFF7-D4FA4CE2A8F8}|AdminProfile\\AdminProfile.csproj|c:\\users\\nesly\\documents\\git\\ad02\\asp.netcore-batch-05\\chapter 2\\workshop\\workshop-1\\adminprofile\\adminprofile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+=======
+>>>>>>> ccf0b50bda47b0d8d8899eb5dd2cefddc525ce98
+  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 2\\Workshop\\WorkShop-1\\AdminProfile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0436B212-65C6-4CCC-BFF7-D4FA4CE2A8F8}|AdminProfile\\AdminProfile.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 2\\workshop\\workshop-1\\adminprofile\\adminprofile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 543720304b330196507aee37d027bfda27a4f699
+      "RelativeMoniker": "D:0:0:{0436B212-65C6-4CCC-BFF7-D4FA4CE2A8F8}|AdminProfile\\AdminProfile.csproj|solutionrelative:adminprofile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+=======
+  "WorkspaceRootPath": "C:\\Users\\samee\\Desktop\\ASP.NetCore\\Asp.NetCore-Batch-05\\Chapter 2\\Workshop\\WorkShop-1\\AdminProfile\\",
+  "Documents": [],
+>>>>>>> 0f51765a35ef9c7d09a5d2aaacad7cf07aed25c7
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 2\\Workshop\\WorkShop-1\\AdminProfile\\AdminProfile\\Program.cs",
+              "RelativeDocumentMoniker": "AdminProfile\\Program.cs",
+              "ToolTip": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 2\\Workshop\\WorkShop-1\\AdminProfile\\AdminProfile\\Program.cs",
+              "RelativeToolTip": "AdminProfile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 2\\Workshop\\WorkShop-1\\AdminProfile\\AdminProfile\\Program.cs",
+              "RelativeDocumentMoniker": "AdminProfile\\Program.cs",
+<<<<<<< HEAD
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 2\\Workshop\\WorkShop-1\\AdminProfile\\AdminProfile\\Program.cs*",
+              "RelativeToolTip": "AdminProfile\\Program.cs*",
+>>>>>>> 543720304b330196507aee37d027bfda27a4f699
+=======
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 2\\Workshop\\WorkShop-1\\AdminProfile\\AdminProfile\\Program.cs",
+              "RelativeToolTip": "AdminProfile\\Program.cs",
+>>>>>>> ccf0b50bda47b0d8d8899eb5dd2cefddc525ce98
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:31:54.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+=======
+      "DocumentGroups": []
+>>>>>>> 0f51765a35ef9c7d09a5d2aaacad7cf07aed25c7
+    }
+  ]
+}

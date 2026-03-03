@@ -1,0 +1,7 @@
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe.config
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.exe
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\bin\Debug\InterviewShedule.pdb
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.AssemblyReference.cache
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.csproj.CoreCompileInputs.cache
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.exe
+D:\Dotnet\Asp.NetCore-Batch-05\Chapter 2\Workshop\WorkShop-2\InterviewShedule\InterviewShedule\obj\Debug\InterviewShedule.pdb
