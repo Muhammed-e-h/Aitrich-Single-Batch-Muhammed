@@ -1,0 +1,14 @@
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\bin\Debug\net8.0\AbstractionActivity 2.exe
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\bin\Debug\net8.0\AbstractionActivity 2.deps.json
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\bin\Debug\net8.0\AbstractionActivity 2.runtimeconfig.json
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\bin\Debug\net8.0\AbstractionActivity 2.dll
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\bin\Debug\net8.0\AbstractionActivity 2.pdb
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\obj\Debug\net8.0\AbstractionActivity 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\obj\Debug\net8.0\AbstractionActivity 2.AssemblyInfoInputs.cache
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\obj\Debug\net8.0\AbstractionActivity 2.AssemblyInfo.cs
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\obj\Debug\net8.0\AbstractionActivity 2.csproj.CoreCompileInputs.cache
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\obj\Debug\net8.0\AbstractionActivity 2.dll
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\obj\Debug\net8.0\refint\AbstractionActivity 2.dll
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\obj\Debug\net8.0\AbstractionActivity 2.pdb
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\obj\Debug\net8.0\AbstractionActivity 2.genruntimeconfig.cache
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\AbstractionActivity 2\AbstractionActivity 2\obj\Debug\net8.0\ref\AbstractionActivity 2.dll
