@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\Activity\\AbstractionActivity 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C52F9B7D-58C8-475B-B1E4-29B3D89014FA}|AbstractionActivity 2\\AbstractionActivity 2.csproj|e:\\asp.net\\c sharp\\oops\\abstraction\\abstraction\\activity 1\\activity\\abstractionactivity 2\\abstractionactivity 2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52F9B7D-58C8-475B-B1E4-29B3D89014FA}|AbstractionActivity 2\\AbstractionActivity 2.csproj|solutionrelative:abstractionactivity 2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52F9B7D-58C8-475B-B1E4-29B3D89014FA}|AbstractionActivity 2\\AbstractionActivity 2.csproj|e:\\asp.net\\c sharp\\oops\\abstraction\\abstraction\\activity 1\\activity\\abstractionactivity 2\\abstractionactivity 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52F9B7D-58C8-475B-B1E4-29B3D89014FA}|AbstractionActivity 2\\AbstractionActivity 2.csproj|solutionrelative:abstractionactivity 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\Activity\\AbstractionActivity 2\\AbstractionActivity 2\\Class1.cs",
+              "RelativeDocumentMoniker": "AbstractionActivity 2\\Class1.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\Activity\\AbstractionActivity 2\\AbstractionActivity 2\\Class1.cs",
+              "RelativeToolTip": "AbstractionActivity 2\\Class1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:43:59.243Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\Activity\\AbstractionActivity 2\\AbstractionActivity 2\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractionActivity 2\\Program.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\Activity\\AbstractionActivity 2\\AbstractionActivity 2\\Program.cs",
+              "RelativeToolTip": "AbstractionActivity 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:43:41.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\bin\Debug\net8.0\abstractipnsample.exe
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\bin\Debug\net8.0\abstractipnsample.deps.json
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\bin\Debug\net8.0\abstractipnsample.runtimeconfig.json
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\bin\Debug\net8.0\abstractipnsample.dll
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\bin\Debug\net8.0\abstractipnsample.pdb
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\obj\Debug\net8.0\abstractipnsample.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\obj\Debug\net8.0\abstractipnsample.AssemblyInfoInputs.cache
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\obj\Debug\net8.0\abstractipnsample.AssemblyInfo.cs
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\obj\Debug\net8.0\abstractipnsample.csproj.CoreCompileInputs.cache
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\obj\Debug\net8.0\abstractipnsample.dll
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\obj\Debug\net8.0\refint\abstractipnsample.dll
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\obj\Debug\net8.0\abstractipnsample.pdb
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\obj\Debug\net8.0\abstractipnsample.genruntimeconfig.cache
+E:\ASP.NET\C SHARP\OOPS\Abstraction\abstractipnsample\abstractipnsample\obj\Debug\net8.0\ref\abstractipnsample.dll

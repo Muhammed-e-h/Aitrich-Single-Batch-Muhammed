@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\AbstractSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|e:\\asp.net\\c sharp\\oops\\abstraction\\abstraction\\activity 1\\abstractsample\\abstractsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|e:\\asp.net\\c sharp\\oops\\abstraction\\abstraction\\activity 1\\abstractsample\\abstractsample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|e:\\asp.net\\c sharp\\oops\\abstraction\\abstraction\\activity 1\\abstractsample\\abstractsample\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|e:\\asp.net\\c sharp\\oops\\abstraction\\abstraction\\activity 1\\abstractsample\\abstractsample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACC2474-F6BD-4919-93E4-B0E4752A78C8}|AbstractSample\\AbstractSample.csproj|solutionrelative:abstractsample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Cat.cs",
+              "RelativeDocumentMoniker": "AbstractSample\\Cat.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Cat.cs",
+              "RelativeToolTip": "AbstractSample\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:17:19.696Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractSample\\Program.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Program.cs",
+              "RelativeToolTip": "AbstractSample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:18:25.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Dog.cs",
+              "RelativeDocumentMoniker": "AbstractSample\\Dog.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Dog.cs",
+              "RelativeToolTip": "AbstractSample\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:17:59.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Animal.cs",
+              "RelativeDocumentMoniker": "AbstractSample\\Animal.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\OOPS\\Abstraction\\Abstraction\\Activity 1\\AbstractSample\\AbstractSample\\Animal.cs",
+              "RelativeToolTip": "AbstractSample\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:16:34.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

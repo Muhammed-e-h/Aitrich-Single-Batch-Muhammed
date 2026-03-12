@@ -1,0 +1,14 @@
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.AssemblyInfoInputs.cache
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.AssemblyInfo.cs
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.csproj.CoreCompileInputs.cache
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\bin\Debug\net8.0\ECommerce.exe
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\bin\Debug\net8.0\ECommerce.deps.json
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\bin\Debug\net8.0\ECommerce.runtimeconfig.json
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\bin\Debug\net8.0\ECommerce.dll
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\bin\Debug\net8.0\ECommerce.pdb
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.dll
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\refint\ECommerce.dll
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.pdb
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.genruntimeconfig.cache
+E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ref\ECommerce.dll
