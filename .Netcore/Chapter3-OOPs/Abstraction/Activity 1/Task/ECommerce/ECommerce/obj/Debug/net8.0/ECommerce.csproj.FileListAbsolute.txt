@@ -12,3 +12,18 @@ E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\EComme
 E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.pdb
 E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.genruntimeconfig.cache
 E:\ASP.NET\C SHARP\OOPS\Abstraction\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ref\ECommerce.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\bin\Debug\net8.0\ECommerce.exe
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\bin\Debug\net8.0\ECommerce.deps.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\bin\Debug\net8.0\ECommerce.runtimeconfig.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\bin\Debug\net8.0\ECommerce.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\bin\Debug\net8.0\ECommerce.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.AssemblyInfoInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.AssemblyInfo.cs
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.csproj.CoreCompileInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.sourcelink.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\refint\ECommerce.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.genruntimeconfig.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter3-OOPs\Abstraction\Activity 1\Task\ECommerce\ECommerce\obj\Debug\net8.0\ref\ECommerce.dll

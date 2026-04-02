@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dRs+2sx/HTs=",
+  "dgSpecHash": "1Hj8lfuTO7I=",
   "success": true,
-  "projectFilePath": "E:\\MY CLASS\\BACKEND\\C#\\Activity\\Enum\\TraficEnum\\TraficEnum.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter2-c#\\Enum\\TraficEnum\\TraficEnum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
+  ],
   "logs": []
 }
