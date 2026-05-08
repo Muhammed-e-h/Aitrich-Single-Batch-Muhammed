@@ -1,37 +1,23 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj": {}
+    "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter3-OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj": {}
   },
   "projects": {
-    "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj": {
+    "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter3-OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+        "projectUniqueName": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter3-OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
         "projectName": "Admin_Job",
-        "projectPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\obj\\",
-=======
-    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
-        "projectName": "Admin_Job",
-        "projectPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
-        "packagesPath": "C:\\Users\\afraa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\obj\\",
->>>>>>> 21ddc1e3bd1499171d2d518e410333740176b9b6
+        "projectPath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter3-OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter3-OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -98,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
