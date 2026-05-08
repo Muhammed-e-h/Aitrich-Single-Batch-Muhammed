@@ -56,3 +56,18 @@ E:\MY CLASS\BACKEND\Chapter 4\Collection\Non-Generic\HashTable-Activity\HashTabl
 E:\MY CLASS\BACKEND\Chapter 4\Collection\Non-Generic\HashTable-Activity\HashTable-Activity\obj\Debug\net8.0\HashTable-Activity.pdb
 E:\MY CLASS\BACKEND\Chapter 4\Collection\Non-Generic\HashTable-Activity\HashTable-Activity\obj\Debug\net8.0\HashTable-Activity.genruntimeconfig.cache
 E:\MY CLASS\BACKEND\Chapter 4\Collection\Non-Generic\HashTable-Activity\HashTable-Activity\obj\Debug\net8.0\ref\HashTable-Activity.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\bin\Debug\net8.0\HashTable-Activity.exe
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\bin\Debug\net8.0\HashTable-Activity.deps.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\bin\Debug\net8.0\HashTable-Activity.runtimeconfig.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\bin\Debug\net8.0\HashTable-Activity.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\bin\Debug\net8.0\HashTable-Activity.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\obj\Debug\net8.0\HashTable-Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\obj\Debug\net8.0\HashTable-Activity.AssemblyInfoInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\obj\Debug\net8.0\HashTable-Activity.AssemblyInfo.cs
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\obj\Debug\net8.0\HashTable-Activity.csproj.CoreCompileInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\obj\Debug\net8.0\HashTable-Activity.sourcelink.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\obj\Debug\net8.0\HashTable-Activity.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\obj\Debug\net8.0\refint\HashTable-Activity.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\obj\Debug\net8.0\HashTable-Activity.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\obj\Debug\net8.0\HashTable-Activity.genruntimeconfig.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\HashTable-Activity\HashTable-Activity\obj\Debug\net8.0\ref\HashTable-Activity.dll
