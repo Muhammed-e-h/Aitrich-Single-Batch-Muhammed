@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\OverFlowException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7AC92A-C0B1-4F61-AE37-44A279A69576}|ExceptionHandling3\\ExceptionHandling3.csproj|d:\\sani course\\asp.net\\aitrich1\\asp.netcore-batch-05\\chapter 4\\activity\\overflowexception\\exceptionhandling3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+  "WorkspaceRootPath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\OverFlowException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7AC92A-C0B1-4F61-AE37-44A279A69576}|ExceptionHandling3\\ExceptionHandling3.csproj|c:\\users\\afraa\\desktop\\bootcamps\\asp.netcore-batch-05\\chapter 4\\activity\\overflowexception\\exceptionhandling3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+<<<<<<< HEAD
+=======
+>>>>>>> e3627ae02d2674afef6d0e509f0c1a558070b294
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+=======
+  "WorkspaceRootPath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\OverFlowException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7AC92A-C0B1-4F61-AE37-44A279A69576}|ExceptionHandling3\\ExceptionHandling3.csproj|c:\\users\\nesly\\documents\\git\\ad02\\asp.netcore-batch-05\\chapter 4\\activity\\overflowexception\\exceptionhandling3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+<<<<<<< HEAD
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+      "RelativeMoniker": "D:0:0:{BC7AC92A-C0B1-4F61-AE37-44A279A69576}|ExceptionHandling3\\ExceptionHandling3.csproj|solutionrelative:exceptionhandling3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\OverFlowException\\ExceptionHandling3\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling3\\Program.cs",
+              "ToolTip": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\OverFlowException\\ExceptionHandling3\\Program.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\OverFlowException\\ExceptionHandling3\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling3\\Program.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\OverFlowException\\ExceptionHandling3\\Program.cs",
+>>>>>>> e3627ae02d2674afef6d0e509f0c1a558070b294
+              "RelativeToolTip": "ExceptionHandling3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\OverFlowException\\ExceptionHandling3\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling3\\Program.cs",
+              "ToolTip": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\OverFlowException\\ExceptionHandling3\\Program.cs",
+              "RelativeToolTip": "ExceptionHandling3\\Program.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\OverFlowException\\ExceptionHandling3\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling3\\Program.cs",
+              "ToolTip": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\OverFlowException\\ExceptionHandling3\\Program.cs",
+              "RelativeToolTip": "ExceptionHandling3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+<<<<<<< HEAD
+>>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+=======
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+>>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:41:56.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
