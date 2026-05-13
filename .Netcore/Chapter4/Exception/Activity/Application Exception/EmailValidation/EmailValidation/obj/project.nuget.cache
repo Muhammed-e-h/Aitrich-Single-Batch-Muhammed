@@ -1,36 +1,23 @@
 {
   "version": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "dgSpecHash": "V4cvtD7VqeE=",
+  "dgSpecHash": "4hUaiz36G60=",
   "success": true,
-  "projectFilePath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\EmailValidation.csproj",
-=======
-=======
-  "dgSpecHash": "Tm0VmLcqwZk=",
-  "success": true,
-  "projectFilePath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\EmailValidation.csproj",
-=======
-<<<<<<< HEAD
->>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
-  "dgSpecHash": "Cm4qwSBsnTI=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\EmailValidation.csproj",
->>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
-=======
-  "dgSpecHash": "NLpsczRnebY=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\EmailValidation.csproj",
->>>>>>> 08fc5fed7c5f91ef8a7c955908a31bca191643d4
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\EmailValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
+      "message": "Problem reading the cache file C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\EmailValidation.csproj",
       "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "filePath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\EmailValidation.csproj",
+      "targetGraphs": []
     }
   ]
 }

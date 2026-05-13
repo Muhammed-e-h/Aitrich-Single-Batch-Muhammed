@@ -1,14 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "N2qo2suZz9o=",
+  "dgSpecHash": "FV15zAJyIPQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 4\\Exception\\Activity\\Application Exception\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
-=======
-  "dgSpecHash": "/1Ie3Teuwb4=",
-  "success": true,
-  "projectFilePath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Exception\\Activity\\Application Exception\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
->>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+  "projectFilePath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception\\UserAlreadyExist-Exception.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

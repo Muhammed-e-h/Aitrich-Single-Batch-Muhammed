@@ -14,22 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmailValidation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7206c041729b31cbf081640f32d9b5144665d023")]
-=======
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+736246031264f02dda43fd56c35e0dea2cc6a7d3")]
-=======
-<<<<<<< HEAD
->>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14320508f68d6e48eaf6d1c446cf1451f705d816")]
->>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f57be805a69e68d4fc8b418580f1855c81d39b6")]
->>>>>>> 08fc5fed7c5f91ef8a7c955908a31bca191643d4
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+607cc8cb24f28b5bf302aec366965fdd285be512")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmailValidation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmailValidation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

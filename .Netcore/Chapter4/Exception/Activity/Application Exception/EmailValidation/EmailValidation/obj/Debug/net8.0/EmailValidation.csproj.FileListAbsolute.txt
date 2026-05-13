@@ -42,3 +42,18 @@ C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Applic
 C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.pdb
 C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.genruntimeconfig.cache
 C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\ref\EmailValidation.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.exe
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.deps.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.runtimeconfig.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\bin\Debug\net8.0\EmailValidation.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.AssemblyInfoInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.AssemblyInfo.cs
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.csproj.CoreCompileInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.sourcelink.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\refint\EmailValidation.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\EmailValidation.genruntimeconfig.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Exception\Activity\Application Exception\EmailValidation\EmailValidation\obj\Debug\net8.0\ref\EmailValidation.dll
