@@ -1,0 +1,47 @@
+D:\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.exe
+D:\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.deps.json
+D:\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.runtimeconfig.json
+D:\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.dll
+D:\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.pdb
+D:\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.GeneratedMSBuildEditorConfig.editorconfig
+D:\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.AssemblyInfoInputs.cache
+D:\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.AssemblyInfo.cs
+D:\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.csproj.CoreCompileInputs.cache
+D:\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.dll
+D:\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\refint\Select-SelectMany.dll
+D:\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.pdb
+D:\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.genruntimeconfig.cache
+D:\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\ref\Select-SelectMany.dll
+<<<<<<< HEAD
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.exe
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.deps.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.runtimeconfig.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.pdb
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.GeneratedMSBuildEditorConfig.editorconfig
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.AssemblyInfoInputs.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.AssemblyInfo.cs
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.csproj.CoreCompileInputs.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.sourcelink.json
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\refint\Select-SelectMany.dll
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.pdb
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.genruntimeconfig.cache
+D:\sani course\asp.net\aitrich1\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\ref\Select-SelectMany.dll
+=======
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.exe
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.deps.json
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.runtimeconfig.json
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.dll
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.pdb
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.AssemblyInfoInputs.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.AssemblyInfo.cs
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.csproj.CoreCompileInputs.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.sourcelink.json
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.dll
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\refint\Select-SelectMany.dll
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.pdb
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.genruntimeconfig.cache
+C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\Select-SelectMany2\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\ref\Select-SelectMany.dll
+>>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
