@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rg2e5sCiiYM=",
+  "success": true,
+  "projectFilePath": "E:\\MY CLASS\\BACKEND\\Chapter 4\\Linq\\Select-SelectMany2\\Select-SelectMany\\Select-SelectMany\\Select-SelectMany.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\MY CLASS\\BACKEND\\Chapter 4\\Linq\\Select-SelectMany2\\Select-SelectMany\\Select-SelectMany\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}
