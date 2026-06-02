@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhoneNumberValidation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dbddbfa020920256c6687da622488429d586aa4")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14320508f68d6e48eaf6d1c446cf1451f705d816")]
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+607cc8cb24f28b5bf302aec366965fdd285be512")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhoneNumberValidation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhoneNumberValidation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

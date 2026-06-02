@@ -1,19 +1,23 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "b0zk5GcFmNU=",
+  "dgSpecHash": "0TX20DS9q9o=",
   "success": true,
-  "projectFilePath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
-=======
-  "dgSpecHash": "21hwZmDLAIQ=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\afraa\\Desktop\\Bootcamps\\Asp.NetCore-Batch-05\\Chapter 3\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
->>>>>>> 21ddc1e3bd1499171d2d518e410333740176b9b6
+  "projectFilePath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter3-OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter3-OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter3-OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter3-OOPs\\Workshop\\Workshop 1\\Admin_Job\\Admin_Job\\Admin_Job.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

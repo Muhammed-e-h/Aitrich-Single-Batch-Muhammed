@@ -1,66 +1,23 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj": {}
+    "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj": {}
   },
   "projects": {
-    "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj": {
+    "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
+        "projectUniqueName": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
         "projectName": "PhoneNumberValidation",
-        "projectPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\aitrich\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\obj\\",
-=======
-    "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj": {}
-  },
-  "projects": {
-    "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
-        "projectName": "PhoneNumberValidation",
-        "projectPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
-        "packagesPath": "C:\\Users\\Siby\\.nuget\\packages\\",
-        "outputPath": "D:\\sani course\\asp.net\\aitrich1\\Asp.NetCore-Batch-05\\Chapter 4\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\obj\\",
->>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
-=======
-    "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
-        "projectName": "PhoneNumberValidation",
-        "projectPath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
-        "packagesPath": "C:\\Users\\Nesly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nesly\\Documents\\git\\ad02\\Asp.NetCore-Batch-05\\Chapter 4\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\obj\\",
-<<<<<<< HEAD
->>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
-=======
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
->>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+        "projectPath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\PhoneNumberValidation.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\PhoneNumberValidation\\PhoneNumberValidation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\Nesly\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
-=======
-          "C:\\Users\\Siby\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\Nesly\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 671f5171e8b35ac7514c4e2cfd5f89dec842bbb5
->>>>>>> 00f3da84465a18801edadecf6b83e673356d0578
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -88,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -104,12 +61,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.25, 8.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

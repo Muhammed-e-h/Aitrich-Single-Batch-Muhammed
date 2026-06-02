@@ -56,3 +56,18 @@ E:\MY CLASS\BACKEND\Chapter 4\Collection\Non-Generic\ArrayList-Activity\ArrayLis
 E:\MY CLASS\BACKEND\Chapter 4\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.pdb
 E:\MY CLASS\BACKEND\Chapter 4\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.genruntimeconfig.cache
 E:\MY CLASS\BACKEND\Chapter 4\Collection\Non-Generic\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ref\ArrayList-Activity.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.exe
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.deps.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.runtimeconfig.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\bin\Debug\net8.0\ArrayList-Activity.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.AssemblyInfoInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.AssemblyInfo.cs
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.csproj.CoreCompileInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.sourcelink.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\refint\ArrayList-Activity.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ArrayList-Activity.genruntimeconfig.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\ArrayList-Activity\ArrayList-Activity\obj\Debug\net8.0\ref\ArrayList-Activity.dll
