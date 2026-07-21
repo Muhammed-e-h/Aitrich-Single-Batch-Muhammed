@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Select-SelectMany")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c54f02ad908b4e8e519014fc64762e3e78f8788")]
 [assembly: System.Reflection.AssemblyProductAttribute("Select-SelectMany")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Select-SelectMany")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -59,3 +59,18 @@ E:\MY CLASS\BACKEND\Chapter 4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug
 E:\MY CLASS\BACKEND\Chapter 4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.pdb
 E:\MY CLASS\BACKEND\Chapter 4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.genruntimeconfig.cache
 E:\MY CLASS\BACKEND\Chapter 4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\ref\Select-SelectMany.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.exe
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.deps.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.runtimeconfig.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\bin\Debug\net8.0\Select-SelectMany.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.AssemblyInfoInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.AssemblyInfo.cs
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.csproj.CoreCompileInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.sourcelink.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\refint\Select-SelectMany.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\Select-SelectMany.genruntimeconfig.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\Select-SelectMany\Select-SelectMany\obj\Debug\net8.0\ref\Select-SelectMany.dll

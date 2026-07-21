@@ -45,3 +45,18 @@ C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\ConsoleApp
 C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.genruntimeconfig.cache
 C:\Users\Nesly\Documents\git\ad02\Asp.NetCore-Batch-05\Chapter 4\Linq\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ref\ConsoleApp16.dll
 >>>>>>> 72cd2dc9fe6576edb639d8c5518ee6d641ae3017
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.exe
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.deps.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.runtimeconfig.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.AssemblyInfoInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.AssemblyInfo.cs
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.csproj.CoreCompileInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.sourcelink.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\refint\ConsoleApp16.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ConsoleApp16.genruntimeconfig.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Linq\ConsoleApp16\ConsoleApp16\obj\Debug\net8.0\ref\ConsoleApp16.dll

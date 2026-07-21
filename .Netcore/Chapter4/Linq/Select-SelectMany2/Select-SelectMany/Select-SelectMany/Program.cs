@@ -11,13 +11,12 @@
 
 
         List<Student> students = new List<Student>
-{
-    new Student { Name = "Alice", Subjects = new List<string> { "Math", "Science" } },
-    new Student { Name = "Bob", Subjects = new List<string> { "History", "Geography" } }
-};
+        {
+            new Student { Name = "Alice", Subjects = new List<string> { "Math", "Science" } },
+            new Student { Name = "Bob", Subjects = new List<string> { "History", "Geography" } }
+        };
 
-        var selectresult = from s in students
-                           select s;
+        var selectresult = from s in students select s;
         foreach(var student in selectresult)
         {
             Console.WriteLine(student.Name+":");
@@ -51,9 +50,8 @@
 
         Console.WriteLine("********************");
         Console.WriteLine("Student - Subject Pairs:SelectMany");
-        var selectManyResult2 = students.SelectMany(
-                                s => s.Subjects,
-                             (student, subject) => new { student.Name, Subject = subject });
+        var selectManyResult2 = students.SelectMany(s => s.Subjects,
+            (student, subject) => new { student.Name, Subject = subject });
         
         foreach (var item in selectManyResult2)
         {

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\EmailValidation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|c:\\aitrich-single-batch-muhammed\\aitrich-single-batch-muhammed\\.netcore\\chapter4\\exception\\activity\\application exception\\emailvalidation\\emailvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|solutionrelative:emailvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|c:\\aitrich-single-batch-muhammed\\aitrich-single-batch-muhammed\\.netcore\\chapter4\\exception\\activity\\application exception\\emailvalidation\\emailvalidation\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|solutionrelative:emailvalidation\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|c:\\aitrich-single-batch-muhammed\\aitrich-single-batch-muhammed\\.netcore\\chapter4\\exception\\activity\\application exception\\emailvalidation\\emailvalidation\\exception\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|solutionrelative:emailvalidation\\exception\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|c:\\aitrich-single-batch-muhammed\\aitrich-single-batch-muhammed\\.netcore\\chapter4\\exception\\activity\\application exception\\emailvalidation\\emailvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2412FB77-F3A6-40C7-940C-17ACB7883BE6}|EmailValidation\\EmailValidation.csproj|solutionrelative:emailvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InvalidEmailException.cs",
               "DocumentMoniker": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\Exception\\InvalidEmailException.cs",
               "RelativeDocumentMoniker": "EmailValidation\\Exception\\InvalidEmailException.cs",
@@ -34,25 +38,23 @@
               "RelativeToolTip": "EmailValidation\\Exception\\InvalidEmailException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T09:23:40.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-11T09:23:40.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmailValidator.cs",
               "DocumentMoniker": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\EmailValidator.cs",
               "RelativeDocumentMoniker": "EmailValidation\\EmailValidator.cs",
               "ToolTip": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\EmailValidator.cs",
               "RelativeToolTip": "EmailValidation\\EmailValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T09:23:40.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-11T09:23:40.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter4\\Exception\\Activity\\Application Exception\\EmailValidation\\EmailValidation\\Program.cs",
               "RelativeDocumentMoniker": "EmailValidation\\Program.cs",
