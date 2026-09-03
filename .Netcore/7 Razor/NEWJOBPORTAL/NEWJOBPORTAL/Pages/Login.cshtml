@@ -1,0 +1,36 @@
+﻿@page
+@model NEWJOBPORTAL.Pages.LoginModel
+@{
+}
+<h2>Login</h2>
+
+<form method="post">
+    <div class="mb-3">
+       <label asp-for="Email"></label>
+       <input asp-for="Email" class="form-control"/>
+      <span asp-validation-for="Email" class="text-danger"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="PasswordHash"></label>
+        <input asp-for="PasswordHash" type="Password" class="form-control" />
+        <span asp-validation-for="PasswordHash" class="text-danger"></span>
+    </div>
+
+     <div class="mb-3">
+
+        <input asp-for="RememberMe" />
+        <label asp-for="RememberMe">Remember Me</label>
+
+     </div>
+
+     <button type="submit" class="btn btn-primary">Login
+
+     </button>
+
+</form>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial"/>
+}

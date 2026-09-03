@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\job\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\job\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\model\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\model\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\migrations\\20260326053844_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\migrations\\20260326053844_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\workshop\\jobmanagement\\jobmanagement\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Index.cshtml.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Index.cshtml.cs",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Service\\JobService.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Service\\JobService.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Service\\JobService.cs",
+              "RelativeToolTip": "JobManagement\\Service\\JobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Index.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Index.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Index.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T22:10:11.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "JobManagement\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:10.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobService.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Interface\\IJobService.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobService.cs",
+              "RelativeToolTip": "JobManagement\\Interface\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Repository\\JobRepository.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "JobManagement\\Repository\\JobRepository.cs",
+              "ViewState": "AgIAABUAAACAXnSMGlEWwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "JobManagement\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Program.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Program.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Program.cs",
+              "RelativeToolTip": "JobManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Dto\\JobDto.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Dto\\JobDto.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Dto\\JobDto.cs",
+              "RelativeToolTip": "JobManagement\\Dto\\JobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "JobManagement\\appsettings.json",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\appsettings.json",
+              "RelativeToolTip": "JobManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-09T22:10:11.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Edit.cshtml.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Edit.cshtml.cs",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Edit.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Delete.cshtml.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Delete.cshtml.cs",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Delete.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Delete.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Delete.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Delete.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T22:10:11.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Create.cshtml.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Create.cshtml.cs",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Create.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Create.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Create.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Create.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Create.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T22:10:11.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Edit.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Job\\Edit.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Job\\Edit.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Job\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T22:10:11.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T22:10:11.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Interface\\IJobRepository.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Interface\\IJobRepository.cs",
+              "RelativeToolTip": "JobManagement\\Interface\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JobManagement\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAACEgNkDZg8IwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Jobs.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Model\\Jobs.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Model\\Jobs.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Model\\Jobs.cs",
+              "RelativeToolTip": "JobManagement\\Model\\Jobs.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260326053844_Initial.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Migrations\\20260326053844_Initial.cs",
+              "RelativeDocumentMoniker": "JobManagement\\Migrations\\20260326053844_Initial.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Migrations\\20260326053844_Initial.cs",
+              "RelativeToolTip": "JobManagement\\Migrations\\20260326053844_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T22:10:11.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Index.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T22:10:11.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Privacy.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T22:10:11.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Error.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Error.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T22:10:11.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T22:10:11.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "JobManagement\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "JobManagement\\wwwroot\\css\\site.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-09T22:10:11.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\_ViewStart.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T22:10:11.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "JobManagement\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\Workshop\\JobManagement\\JobManagement\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "JobManagement\\Pages\\_ViewImports.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T22:10:11.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

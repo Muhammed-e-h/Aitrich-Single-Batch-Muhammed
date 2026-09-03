@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_GLEBVJ6/RazCrudNew/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\migrations\\20260325051808_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\migrations\\20260325051808_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|d:\\bootcamp\\asp.net-core-batch-42\\asp .net core\\7 razor\\simpleauth\\simpleauth\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC38445F-57AF-4342-A7E7-C397EA46C501}|SimpleAuth\\SimpleAuth.csproj|solutionrelative:simpleauth\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleAuth\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SimpleAuth\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T06:14:04.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SimpleAuth\\Models\\User.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Models\\User.cs",
+              "RelativeToolTip": "SimpleAuth\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T06:14:04.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Register.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-05T06:14:04.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Register.cshtml.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAqs4I//QhwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T06:14:04.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleAuth\\Program.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Program.cs",
+              "RelativeToolTip": "SimpleAuth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T06:14:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\appsettings.json",
+              "RelativeDocumentMoniker": "SimpleAuth\\appsettings.json",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\appsettings.json",
+              "RelativeToolTip": "SimpleAuth\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-05T06:14:04.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-05T06:14:04.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T06:14:04.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T06:14:04.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Logout.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-05T06:14:04.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-05T06:14:04.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-05T06:14:04.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_GLEBVJ6/RazCrudNew/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_GLEBVJ6/RazCrudNew/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-08-05T06:14:04.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260325051808_Initial.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Migrations\\20260325051808_Initial.cs",
+              "RelativeDocumentMoniker": "SimpleAuth\\Migrations\\20260325051808_Initial.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Migrations\\20260325051808_Initial.cs",
+              "RelativeToolTip": "SimpleAuth\\Migrations\\20260325051808_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T06:14:04.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T06:14:04.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SimpleAuth\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\SimpleAuth\\SimpleAuth\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SimpleAuth\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-05T06:14:04.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

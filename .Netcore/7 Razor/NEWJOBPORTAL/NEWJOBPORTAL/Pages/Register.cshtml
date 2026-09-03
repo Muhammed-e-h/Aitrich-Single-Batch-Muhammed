@@ -1,0 +1,42 @@
+﻿@page
+@model NEWJOBPORTAL.Pages.RegisterModel
+@{
+}
+
+<h2>Create Account</h2>
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="NewUser.UserName"></label>
+        <input asp-for="NewUser.UserName" class="form-control" />
+        <span asp-validation-for="NewUser.UserName" class="text-danger"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="NewUser.Email"></label>
+        <input asp-for="NewUser.Email" class="form-control" />
+        <span asp-validation-for="NewUser.Email" class="text-danger"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="NewUser.PasswordHash"></label>
+        <input asp-for="NewUser.PasswordHash" class="form-control" />
+        <span asp-validation-for="NewUser.PasswordHash" class="text-danger"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="NewUser.PasswordHash"></label>
+        <input asp-for="NewUser.PasswordHash" class="form-control" />
+        <span asp-validation-for="NewUser.PasswordHash" class="text-danger"></span>
+
+    </div>
+
+    <button type="submit" class="btn btn-primary"></button>
+
+</form>
+
+        @section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+        }

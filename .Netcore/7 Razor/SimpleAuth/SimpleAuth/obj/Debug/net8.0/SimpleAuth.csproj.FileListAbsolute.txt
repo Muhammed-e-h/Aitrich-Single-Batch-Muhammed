@@ -1,0 +1,854 @@
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\appsettings.Development.json
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\appsettings.json
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.staticwebassets.runtime.json
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.exe
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.deps.json
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.runtimeconfig.json
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.pdb
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Azure.Core.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Azure.Identity.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Humanizer.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.ClientModel.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.CodeDom.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Memory.Data.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Text.Json.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.AssemblyReference.cache
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.AssemblyInfoInputs.cache
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.AssemblyInfo.cs
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.CoreCompileInputs.cache
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.RazorAssemblyInfo.cache
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.RazorAssemblyInfo.cs
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.build.json
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.development.json
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.SimpleAuth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.build.SimpleAuth.props
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SimpleAuth.props
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SimpleAuth.props
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\bundle\SimpleAuth.styles.css
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\projectbundle\SimpleAuth.bundle.scp.css
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.Up2Date
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.dll
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\refint\SimpleAuth.dll
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.pdb
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.genruntimeconfig.cache
+D:\SimpleAuth\SimpleAuth\obj\Debug\net8.0\ref\SimpleAuth.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\appsettings.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.staticwebassets.runtime.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.exe
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.deps.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Humanizer.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.AssemblyReference.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.RazorAssemblyInfo.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.RazorAssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.SimpleAuth.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.build.SimpleAuth.props
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SimpleAuth.props
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SimpleAuth.props
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\bundle\SimpleAuth.styles.css
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\projectbundle\SimpleAuth.bundle.scp.css
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.Up2Date
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\refint\SimpleAuth.dll
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.pdb
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\Asp.NetCore-Batch-05\Chapter 7\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\ref\SimpleAuth.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\appsettings.Development.json
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\appsettings.json
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.staticwebassets.runtime.json
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.staticwebassets.endpoints.json
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.exe
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.deps.json
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.runtimeconfig.json
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.pdb
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Azure.Core.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Azure.Identity.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Humanizer.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.ClientModel.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.CodeDom.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Memory.Data.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Text.Json.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.AssemblyReference.cache
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.AssemblyInfoInputs.cache
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.AssemblyInfo.cs
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.CoreCompileInputs.cache
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.MvcApplicationPartsAssemblyInfo.cache
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.RazorAssemblyInfo.cache
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.RazorAssemblyInfo.cs
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\bundle\SimpleAuth.styles.css
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\projectbundle\SimpleAuth.bundle.scp.css
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.build.json
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.development.json
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.SimpleAuth.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.SimpleAuth.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.build.SimpleAuth.props
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SimpleAuth.props
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SimpleAuth.props
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.pack.json
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.Up2Date
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\refint\SimpleAuth.dll
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.pdb
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.genruntimeconfig.cache
+E:\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\ref\SimpleAuth.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\appsettings.Development.json
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\appsettings.json
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.staticwebassets.endpoints.json
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.staticwebassets.runtime.json
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.exe
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.deps.json
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.runtimeconfig.json
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.pdb
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Azure.Core.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Azure.Identity.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Humanizer.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.ClientModel.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.CodeDom.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Memory.Data.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Text.Json.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.AssemblyReference.cache
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.AssemblyInfoInputs.cache
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.AssemblyInfo.cs
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.CoreCompileInputs.cache
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.MvcApplicationPartsAssemblyInfo.cache
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.RazorAssemblyInfo.cache
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.RazorAssemblyInfo.cs
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\bundle\SimpleAuth.styles.css
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\projectbundle\SimpleAuth.bundle.scp.css
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.build.json
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.development.json
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.SimpleAuth.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.SimpleAuth.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.build.SimpleAuth.props
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SimpleAuth.props
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SimpleAuth.props
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.pack.json
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.Up2Date
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\refint\SimpleAuth.dll
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.pdb
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.genruntimeconfig.cache
+E:\MY REFERNCE\MY CLASS\BACKEND\RAZOR1\Activity\SimpleAuth\SimpleAuth\obj\Debug\net8.0\ref\SimpleAuth.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\appsettings.Development.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\appsettings.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.staticwebassets.runtime.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.staticwebassets.endpoints.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.exe
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.deps.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.runtimeconfig.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\SimpleAuth.pdb
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Azure.Core.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Azure.Identity.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Humanizer.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.ClientModel.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.CodeDom.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Memory.Data.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Text.Json.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.AssemblyReference.cache
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.AssemblyInfoInputs.cache
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.AssemblyInfo.cs
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.CoreCompileInputs.cache
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.RazorAssemblyInfo.cache
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.RazorAssemblyInfo.cs
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.sourcelink.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\bundle\SimpleAuth.styles.css
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\scopedcss\projectbundle\SimpleAuth.bundle.scp.css
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.build.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.development.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\swae.build.ex.cache
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.csproj.Up2Date
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\refint\SimpleAuth.dll
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.pdb
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\SimpleAuth.genruntimeconfig.cache
+D:\bootcamp\Asp.net-core-Batch-42\ASP .NET Core\7 Razor\SimpleAuth\SimpleAuth\obj\Debug\net8.0\ref\SimpleAuth.dll

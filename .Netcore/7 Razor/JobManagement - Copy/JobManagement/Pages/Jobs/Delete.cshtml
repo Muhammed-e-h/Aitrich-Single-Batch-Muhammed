@@ -1,0 +1,66 @@
+﻿@page "{id:int}"
+@model JobManagement.Pages.Jobs.DeleteModel
+
+<h2>Delete Job</h2>
+
+
+<h4>Are you sure you want to delete this job?</h4>
+
+<hr />
+
+<div class="mb-3">
+    <label class="fw-bold">Job Title</label>
+    <p>@Model.Job?.JobTitle</p>
+</div>
+
+<div class="mb-3">
+    <label class="fw-bold">Company</label>
+    <p>@Model.Job?.Company</p>
+</div>
+
+<div class="mb-3">
+    <label class="fw-bold">Location</label>
+    <p>@Model.Job?.Location</p>
+</div>
+
+<div class="mb-3">
+    <label class="fw-bold">Employment Type</label>
+    <p>@Model.Job?.EmploymentType</p>
+</div>
+
+<div class="mb-3">
+    <label class="fw-bold">Salary Range</label>
+    <p>@Model.Job?.SalaryRange</p>
+</div>
+
+<div class="mb-3">
+    <label class="fw-bold">Job Description</label>
+    <p>@Model.Job?.JobDescription</p>
+</div>
+
+<div class="mb-3">
+    <label class="fw-bold">Requirements</label>
+    <p>@Model.Job?.Requirements</p>
+</div>
+
+<div class="mb-3">
+    <label class="fw-bold">Posted Date</label>
+    <p>@Model.Job?.PostedDate.ToShortDateString()</p>
+</div>
+
+<div class="mb-3">
+    <label class="fw-bold">Expiration Date</label>
+    <p>@Model.Job?.ExpirationDate.ToShortDateString()</p>
+</div>
+
+<form method="post">
+
+    <button type="submit" class="btn btn-danger">
+        Delete
+    </button>
+
+    <a asp-page="Index" class="btn btn-secondary">
+        Cancel
+    </a>
+
+</form>
