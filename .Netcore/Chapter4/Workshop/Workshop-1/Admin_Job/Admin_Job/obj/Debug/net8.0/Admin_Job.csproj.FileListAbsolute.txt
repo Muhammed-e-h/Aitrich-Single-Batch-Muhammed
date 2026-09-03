@@ -60,3 +60,18 @@ E:\MY CLASS\BACKEND\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\
 E:\MY CLASS\BACKEND\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.pdb
 E:\MY CLASS\BACKEND\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.genruntimeconfig.cache
 E:\MY CLASS\BACKEND\Chapter 4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\ref\Admin_Job.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.exe
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.deps.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.runtimeconfig.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\bin\Debug\net8.0\Admin_Job.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfoInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.AssemblyInfo.cs
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.csproj.CoreCompileInputs.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.sourcelink.json
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\refint\Admin_Job.dll
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.pdb
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\Admin_Job.genruntimeconfig.cache
+C:\Aitrich-Single-Batch-Muhammed\Aitrich-Single-Batch-Muhammed\.Netcore\Chapter4\Workshop\Workshop-1\Admin_Job\Admin_Job\obj\Debug\net8.0\ref\Admin_Job.dll
