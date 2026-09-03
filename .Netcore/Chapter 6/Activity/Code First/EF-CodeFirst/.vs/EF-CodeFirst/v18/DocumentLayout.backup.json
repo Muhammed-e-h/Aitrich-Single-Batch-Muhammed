@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter 6\\Activity\\Code First\\EF-CodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{080E4150-1792-4683-A64A-06C1A3DF3174}|EF-CodeFirst\\EF-CodeFirst.csproj|c:\\aitrich-single-batch-muhammed\\aitrich-single-batch-muhammed\\.netcore\\chapter 6\\activity\\code first\\ef-codefirst\\ef-codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080E4150-1792-4683-A64A-06C1A3DF3174}|EF-CodeFirst\\EF-CodeFirst.csproj|solutionrelative:ef-codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080E4150-1792-4683-A64A-06C1A3DF3174}|EF-CodeFirst\\EF-CodeFirst.csproj|c:\\aitrich-single-batch-muhammed\\aitrich-single-batch-muhammed\\.netcore\\chapter 6\\activity\\code first\\ef-codefirst\\ef-codefirst\\migrations\\studentappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080E4150-1792-4683-A64A-06C1A3DF3174}|EF-CodeFirst\\EF-CodeFirst.csproj|solutionrelative:ef-codefirst\\migrations\\studentappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080E4150-1792-4683-A64A-06C1A3DF3174}|EF-CodeFirst\\EF-CodeFirst.csproj|c:\\aitrich-single-batch-muhammed\\aitrich-single-batch-muhammed\\.netcore\\chapter 6\\activity\\code first\\ef-codefirst\\ef-codefirst\\migrations\\20250201064809_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080E4150-1792-4683-A64A-06C1A3DF3174}|EF-CodeFirst\\EF-CodeFirst.csproj|solutionrelative:ef-codefirst\\migrations\\20250201064809_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080E4150-1792-4683-A64A-06C1A3DF3174}|EF-CodeFirst\\EF-CodeFirst.csproj|c:\\aitrich-single-batch-muhammed\\aitrich-single-batch-muhammed\\.netcore\\chapter 6\\activity\\code first\\ef-codefirst\\ef-codefirst\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080E4150-1792-4683-A64A-06C1A3DF3174}|EF-CodeFirst\\EF-CodeFirst.csproj|solutionrelative:ef-codefirst\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080E4150-1792-4683-A64A-06C1A3DF3174}|EF-CodeFirst\\EF-CodeFirst.csproj|c:\\aitrich-single-batch-muhammed\\aitrich-single-batch-muhammed\\.netcore\\chapter 6\\activity\\code first\\ef-codefirst\\ef-codefirst\\model\\studentappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080E4150-1792-4683-A64A-06C1A3DF3174}|EF-CodeFirst\\EF-CodeFirst.csproj|solutionrelative:ef-codefirst\\model\\studentappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentAppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter 6\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\Migrations\\StudentAppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirst\\Migrations\\StudentAppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter 6\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\Migrations\\StudentAppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EF-CodeFirst\\Migrations\\StudentAppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T07:52:49.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250201064809_initial.cs",
+              "DocumentMoniker": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter 6\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\Migrations\\20250201064809_initial.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirst\\Migrations\\20250201064809_initial.cs",
+              "ToolTip": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter 6\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\Migrations\\20250201064809_initial.cs",
+              "RelativeToolTip": "EF-CodeFirst\\Migrations\\20250201064809_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T07:52:32.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter 6\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirst\\Model\\Student.cs",
+              "ToolTip": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter 6\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\Model\\Student.cs",
+              "RelativeToolTip": "EF-CodeFirst\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T09:53:43.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentAppDbContext.cs",
+              "DocumentMoniker": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter 6\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\Model\\StudentAppDbContext.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirst\\Model\\StudentAppDbContext.cs",
+              "ToolTip": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter 6\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\Model\\StudentAppDbContext.cs",
+              "RelativeToolTip": "EF-CodeFirst\\Model\\StudentAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T09:53:38.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter 6\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "EF-CodeFirst\\Program.cs",
+              "ToolTip": "C:\\Aitrich-Single-Batch-Muhammed\\Aitrich-Single-Batch-Muhammed\\.Netcore\\Chapter 6\\Activity\\Code First\\EF-CodeFirst\\EF-CodeFirst\\Program.cs",
+              "RelativeToolTip": "EF-CodeFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T08:41:19.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -51,7 +51,11 @@ internal class Program
         Console.Write("Enter Age: ");
         int age = int.Parse(Console.ReadLine());
 
-        var student = new Student { Name = name, Age = age };
+        var student = new Student 
+        {
+            Name = name, 
+            Age = age 
+        };
         context.Students.Add(student);
         context.SaveChanges();
 
