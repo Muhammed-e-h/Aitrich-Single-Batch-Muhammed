@@ -10,7 +10,6 @@ namespace SimpleAuth.Pages
 
         [BindProperty]
         public string Username { get; set; }
-
         [BindProperty]
         public string Password { get; set; }
 
@@ -27,9 +26,10 @@ namespace SimpleAuth.Pages
                 ModelState.AddModelError("", "Invalid username or password");
                 return Page();
             }
+
             // Store user in session
             HttpContext.Session.SetString("User", Username);
-            return RedirectToPage("Logout");
+            return RedirectToPage("Index");
         }
     }
 }

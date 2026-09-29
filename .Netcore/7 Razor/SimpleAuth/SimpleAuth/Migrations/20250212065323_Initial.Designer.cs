@@ -11,7 +11,7 @@ using SimpleAuth.Models;
 namespace SimpleAuth.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260325051808_Initial")]
+    [Migration("20250212065323_Initial")]
     partial class Initial
     {
         /// <inheritdoc />

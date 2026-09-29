@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\JobManagement - Copy\\JobManagement\\JobManagement.csproj": {}
+    "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\JobManagement.csproj": {}
   },
   "projects": {
-    "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\JobManagement - Copy\\JobManagement\\JobManagement.csproj": {
+    "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\JobManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\JobManagement - Copy\\JobManagement\\JobManagement.csproj",
+        "projectUniqueName": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\JobManagement.csproj",
         "projectName": "JobManagement",
-        "projectPath": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\JobManagement - Copy\\JobManagement\\JobManagement.csproj",
-        "packagesPath": "C:\\Users\\Surface Pro 6\\.nuget\\packages\\",
-        "outputPath": "D:\\bootcamp\\Asp.net-core-Batch-42\\ASP .NET Core\\7 Razor\\JobManagement - Copy\\JobManagement\\obj\\",
+        "projectPath": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\JobManagement.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Surface Pro 6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -31,7 +31,6 @@
         },
         "frameworks": {
           "net8.0": {
-            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -46,11 +45,10 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
-          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "AutoMapper": {
@@ -91,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

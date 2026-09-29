@@ -1,101 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\",
+  "WorkspaceRootPath": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\jobs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\jobs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\jobs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\jobs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\jobs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\jobs\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\jobs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\jobs\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\jobs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\pages\\jobs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\jobs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\viewmodel\\joblistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\viewmodel\\joblistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\viewmodel\\joblistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\migrations\\20260318095023_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\migrations\\20260318095023_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\migrations\\20260318095023_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|e:\\my refernce\\my class\\backend\\razor1\\activity\\jobmanagement - copy\\jobmanagement\\jobmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|f:\\aitrich\\aitrich-single-batch-muhammed\\.netcore\\7 razor\\jobmanagement - copy\\jobmanagement\\jobmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{50E9777C-E46F-4F2A-A941-612FB5E55F1C}|JobManagement\\JobManagement.csproj|solutionrelative:jobmanagement\\jobmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -106,28 +106,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Create.cshtml.cs",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\Jobs\\Create.cshtml.cs",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Create.cshtml.cs",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Create.cshtml.cs",
               "RelativeToolTip": "JobManagement\\Pages\\Jobs\\Create.cshtml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T11:15:24.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Create.cshtml",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Create.cshtml",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\Jobs\\Create.cshtml",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Create.cshtml",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Create.cshtml",
               "RelativeToolTip": "JobManagement\\Pages\\Jobs\\Create.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -138,9 +142,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Edit.cshtml.cs",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\Jobs\\Edit.cshtml.cs",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Edit.cshtml.cs",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Edit.cshtml.cs",
               "RelativeToolTip": "JobManagement\\Pages\\Jobs\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,9 +154,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Delete.cshtml.cs",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\Jobs\\Delete.cshtml.cs",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Delete.cshtml.cs",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Delete.cshtml.cs",
               "RelativeToolTip": "JobManagement\\Pages\\Jobs\\Delete.cshtml.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,24 +166,23 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "JobDto.cs",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Dto\\JobDto.cs",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Dto\\JobDto.cs",
               "RelativeDocumentMoniker": "JobManagement\\Dto\\JobDto.cs",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Dto\\JobDto.cs",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Dto\\JobDto.cs",
               "RelativeToolTip": "JobManagement\\Dto\\JobDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T11:07:16.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T11:07:16.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "JobService.cs",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Service\\JobService.cs",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Service\\JobService.cs",
               "RelativeDocumentMoniker": "JobManagement\\Service\\JobService.cs",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Service\\JobService.cs",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Service\\JobService.cs",
               "RelativeToolTip": "JobManagement\\Service\\JobService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAUwDQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAEwCsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T11:11:48.854Z",
               "EditorCaption": ""
@@ -188,9 +191,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Edit.cshtml",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Edit.cshtml",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\Jobs\\Edit.cshtml",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Edit.cshtml",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Edit.cshtml",
               "RelativeToolTip": "JobManagement\\Pages\\Jobs\\Edit.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -200,22 +203,21 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Job.cs",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Model\\Job.cs",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Model\\Job.cs",
               "RelativeDocumentMoniker": "JobManagement\\Model\\Job.cs",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Model\\Job.cs",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Model\\Job.cs",
               "RelativeToolTip": "JobManagement\\Model\\Job.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T11:02:22.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T11:02:22.283Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Helper\\AutoMapperProfile.cs",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Helper\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "JobManagement\\Helper\\AutoMapperProfile.cs",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Helper\\AutoMapperProfile.cs",
               "RelativeToolTip": "JobManagement\\Helper\\AutoMapperProfile.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -225,9 +227,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Delete.cshtml",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Delete.cshtml",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\Jobs\\Delete.cshtml",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Delete.cshtml",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Delete.cshtml",
               "RelativeToolTip": "JobManagement\\Pages\\Jobs\\Delete.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -237,9 +239,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Index.cshtml.cs",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\Jobs\\Index.cshtml.cs",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Index.cshtml.cs",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Index.cshtml.cs",
               "RelativeToolTip": "JobManagement\\Pages\\Jobs\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -249,9 +251,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Index.cshtml",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Index.cshtml",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\Jobs\\Index.cshtml",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Index.cshtml",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Jobs\\Index.cshtml",
               "RelativeToolTip": "JobManagement\\Pages\\Jobs\\Index.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -261,9 +263,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Model\\ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Model\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "JobManagement\\Model\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Model\\ApplicationDbContext.cs",
               "RelativeToolTip": "JobManagement\\Model\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -273,9 +275,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Program.cs",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Program.cs",
               "RelativeDocumentMoniker": "JobManagement\\Program.cs",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Program.cs",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Program.cs",
               "RelativeToolTip": "JobManagement\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -285,9 +287,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "JobManagement\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAACYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -297,9 +299,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "JobManagement\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -309,9 +311,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\appsettings.json",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\appsettings.json",
               "RelativeDocumentMoniker": "JobManagement\\appsettings.json",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\appsettings.json",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\appsettings.json",
               "RelativeToolTip": "JobManagement\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -321,9 +323,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "JobListItem.cs",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\ViewModel\\JobListItem.cs",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\ViewModel\\JobListItem.cs",
               "RelativeDocumentMoniker": "JobManagement\\ViewModel\\JobListItem.cs",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\ViewModel\\JobListItem.cs",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\ViewModel\\JobListItem.cs",
               "RelativeToolTip": "JobManagement\\ViewModel\\JobListItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -333,9 +335,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Index.cshtml",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\Index.cshtml",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Index.cshtml",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Index.cshtml",
               "RelativeToolTip": "JobManagement\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -345,9 +347,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\_ViewStart.cshtml",
               "RelativeToolTip": "JobManagement\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -357,9 +359,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "JobManagement\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "JobManagement\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -369,9 +371,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "20260318095023_Initial.cs",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Migrations\\20260318095023_Initial.cs",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Migrations\\20260318095023_Initial.cs",
               "RelativeDocumentMoniker": "JobManagement\\Migrations\\20260318095023_Initial.cs",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\Migrations\\20260318095023_Initial.cs",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\Migrations\\20260318095023_Initial.cs",
               "RelativeToolTip": "JobManagement\\Migrations\\20260318095023_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -381,9 +383,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "site.css",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "JobManagement\\wwwroot\\css\\site.css",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\wwwroot\\css\\site.css",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\wwwroot\\css\\site.css",
               "RelativeToolTip": "JobManagement\\wwwroot\\css\\site.css",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-15T04:37:07.93Z"
@@ -392,9 +394,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "JobManagement.csproj",
-              "DocumentMoniker": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\JobManagement.csproj",
+              "DocumentMoniker": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\JobManagement.csproj",
               "RelativeDocumentMoniker": "JobManagement\\JobManagement.csproj",
-              "ToolTip": "E:\\MY REFERNCE\\MY CLASS\\BACKEND\\RAZOR1\\Activity\\JobManagement - Copy\\JobManagement\\JobManagement.csproj",
+              "ToolTip": "F:\\Aitrich\\Aitrich-Single-Batch-Muhammed\\.Netcore\\7 Razor\\JobManagement - Copy\\JobManagement\\JobManagement.csproj",
               "RelativeToolTip": "JobManagement\\JobManagement.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-14T11:06:55.159Z"

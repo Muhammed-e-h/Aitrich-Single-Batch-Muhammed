@@ -27,7 +27,7 @@ namespace SimpleAuth.Pages
             // Check if user already exists
             if (_context.Users.Any(u => u.Username == NewUser.Username))
             {
-                ModelState.AddModelError("", "Username  already taken");
+                ModelState.AddModelError("", "Username already taken");
                 return Page();
             }
 
@@ -37,3 +37,4 @@ namespace SimpleAuth.Pages
         }
     }
 }
+
