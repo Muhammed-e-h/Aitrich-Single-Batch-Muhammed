@@ -1,0 +1,236 @@
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\appsettings.Development.json
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\appsettings.json
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.staticwebassets.runtime.json
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.exe
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.deps.json
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.runtimeconfig.json
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.pdb
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Azure.Core.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Azure.Identity.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Humanizer.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.CodeDom.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.csproj.AssemblyReference.cache
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.AssemblyInfoInputs.cache
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.AssemblyInfo.cs
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.RazorAssemblyInfo.cache
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.RazorAssemblyInfo.cs
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets.build.json
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets.development.json
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagement.props
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagement.styles.css
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagement.bundle.scp.css
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\Employee.61744648.Up2Date
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\refint\EmployeeManagement.dll
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.pdb
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.genruntimeconfig.cache
+D:\Blazor\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\ref\EmployeeManagement.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\appsettings.Development.json
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\appsettings.json
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.staticwebassets.runtime.json
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.staticwebassets.endpoints.json
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.exe
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.deps.json
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.runtimeconfig.json
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.pdb
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Azure.Core.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Azure.Identity.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Humanizer.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.CodeDom.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.csproj.AssemblyReference.cache
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.AssemblyInfoInputs.cache
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.AssemblyInfo.cs
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.RazorAssemblyInfo.cache
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.RazorAssemblyInfo.cs
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagement.styles.css
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagement.bundle.scp.css
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets.build.json
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets.development.json
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagement.props
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\Employee.61744648.Up2Date
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\refint\EmployeeManagement.dll
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.pdb
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.genruntimeconfig.cache
+E:\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\ref\EmployeeManagement.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\appsettings.Development.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.staticwebassets.endpoints.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\appsettings.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.staticwebassets.runtime.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.exe
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.deps.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.runtimeconfig.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\EmployeeManagement.pdb
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Azure.Core.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Azure.Identity.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Humanizer.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.CodeDom.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Memory.Data.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.csproj.AssemblyReference.cache
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.AssemblyInfoInputs.cache
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.AssemblyInfo.cs
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.RazorAssemblyInfo.cache
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.RazorAssemblyInfo.cs
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagement.styles.css
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeManagement.bundle.scp.css
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets.build.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets.development.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeManagement.props
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets.pack.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\Employee.61744648.Up2Date
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\refint\EmployeeManagement.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.pdb
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\EmployeeManagement.genruntimeconfig.cache
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\EmployeeManagement\EmployeeManagement\obj\Debug\net7.0\ref\EmployeeManagement.dll

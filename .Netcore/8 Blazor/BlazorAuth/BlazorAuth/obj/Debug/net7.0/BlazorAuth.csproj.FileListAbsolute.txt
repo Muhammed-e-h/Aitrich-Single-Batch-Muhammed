@@ -1,0 +1,393 @@
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\appsettings.Development.json
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\appsettings.json
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.staticwebassets.runtime.json
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.exe
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.deps.json
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.runtimeconfig.json
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.pdb
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Azure.Core.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Azure.Identity.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Humanizer.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.CodeDom.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Blazor\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.AssemblyReference.cache
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.AssemblyInfoInputs.cache
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.AssemblyInfo.cs
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.CoreCompileInputs.cache
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.RazorAssemblyInfo.cache
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.RazorAssemblyInfo.cs
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.build.json
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.development.json
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.BlazorAuth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorAuth.props
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorAuth.props
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorAuth.props
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\bundle\BlazorAuth.styles.css
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\projectbundle\BlazorAuth.bundle.scp.css
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.Up2Date
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.dll
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\refint\BlazorAuth.dll
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.pdb
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.genruntimeconfig.cache
+D:\Blazor\BlazorAuth\BlazorAuth\obj\Debug\net7.0\ref\BlazorAuth.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\appsettings.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.staticwebassets.runtime.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.exe
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.deps.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.runtimeconfig.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.pdb
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Humanizer.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.AssemblyReference.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.AssemblyInfoInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.AssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.CoreCompileInputs.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.RazorAssemblyInfo.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.RazorAssemblyInfo.cs
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.sourcelink.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.BlazorAuth.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorAuth.props
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorAuth.props
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorAuth.props
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\bundle\BlazorAuth.styles.css
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\projectbundle\BlazorAuth.bundle.scp.css
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.Up2Date
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\refint\BlazorAuth.dll
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.pdb
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.genruntimeconfig.cache
+C:\Users\afraa\Desktop\Bootcamps\.NetCore-FS-15\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\ref\BlazorAuth.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\appsettings.Development.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\appsettings.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.staticwebassets.runtime.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.staticwebassets.endpoints.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.exe
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.deps.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.runtimeconfig.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.pdb
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Azure.Core.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Azure.Identity.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Humanizer.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.CodeDom.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Memory.Data.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.AssemblyReference.cache
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.AssemblyInfoInputs.cache
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.AssemblyInfo.cs
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.CoreCompileInputs.cache
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.RazorAssemblyInfo.cache
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.RazorAssemblyInfo.cs
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\bundle\BlazorAuth.styles.css
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\projectbundle\BlazorAuth.bundle.scp.css
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.build.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.development.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.BlazorAuth.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.BlazorAuth.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorAuth.props
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorAuth.props
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorAuth.props
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.Up2Date
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\refint\BlazorAuth.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.pdb
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.genruntimeconfig.cache
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\ref\BlazorAuth.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\appsettings.Development.json
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\appsettings.json
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.staticwebassets.endpoints.json
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.staticwebassets.runtime.json
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.exe
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.deps.json
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.runtimeconfig.json
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.pdb
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Azure.Core.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Azure.Identity.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Humanizer.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.CodeDom.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.AssemblyReference.cache
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.AssemblyInfoInputs.cache
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.AssemblyInfo.cs
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.CoreCompileInputs.cache
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.MvcApplicationPartsAssemblyInfo.cache
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.RazorAssemblyInfo.cache
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.RazorAssemblyInfo.cs
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\bundle\BlazorAuth.styles.css
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\projectbundle\BlazorAuth.bundle.scp.css
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.build.json
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.development.json
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.BlazorAuth.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.BlazorAuth.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorAuth.props
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorAuth.props
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorAuth.props
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.Up2Date
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\refint\BlazorAuth.dll
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.pdb
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.genruntimeconfig.cache
+E:\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\ref\BlazorAuth.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\appsettings.Development.json
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\appsettings.json
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.staticwebassets.endpoints.json
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.staticwebassets.runtime.json
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.exe
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.deps.json
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.runtimeconfig.json
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\BlazorAuth.pdb
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Azure.Core.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Azure.Identity.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Humanizer.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.CodeDom.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Memory.Data.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.AssemblyReference.cache
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.AssemblyInfoInputs.cache
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.AssemblyInfo.cs
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.CoreCompileInputs.cache
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.MvcApplicationPartsAssemblyInfo.cache
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.RazorAssemblyInfo.cache
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.RazorAssemblyInfo.cs
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\bundle\BlazorAuth.styles.css
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\scopedcss\projectbundle\BlazorAuth.bundle.scp.css
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.build.json
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.development.json
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.BlazorAuth.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.BlazorAuth.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorAuth.props
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorAuth.props
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorAuth.props
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.pack.json
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.csproj.Up2Date
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\refint\BlazorAuth.dll
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.pdb
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\BlazorAuth.genruntimeconfig.cache
+E:\MY REFERNCE\Blazer\Blazor\Chapter 8\Activity\BlazorAuth\BlazorAuth\obj\Debug\net7.0\ref\BlazorAuth.dll

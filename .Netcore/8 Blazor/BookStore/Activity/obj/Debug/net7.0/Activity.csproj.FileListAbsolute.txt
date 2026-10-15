@@ -1,0 +1,198 @@
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\Activity.AssemblyInfoInputs.cache
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\Activity.AssemblyInfo.cs
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\Activity.csproj.CoreCompileInputs.cache
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\Activity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\Activity.RazorAssemblyInfo.cache
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\Activity.RazorAssemblyInfo.cs
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\bin\Debug\net7.0\appsettings.json
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\bin\Debug\net7.0\Activity.staticwebassets.runtime.json
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\bin\Debug\net7.0\Activity.exe
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\bin\Debug\net7.0\Activity.deps.json
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\bin\Debug\net7.0\Activity.runtimeconfig.json
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\bin\Debug\net7.0\Activity.dll
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\bin\Debug\net7.0\Activity.pdb
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\staticwebassets\msbuild.Activity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\staticwebassets\msbuild.build.Activity.props
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Activity.props
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Activity.props
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\scopedcss\bundle\Activity.styles.css
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\scopedcss\projectbundle\Activity.bundle.scp.css
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\Activity.dll
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\refint\Activity.dll
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\Activity.pdb
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\Activity.genruntimeconfig.cache
+C:\Users\afraa\source\repos\Blazor\Activity\Activity\obj\Debug\net7.0\ref\Activity.dll
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\bin\Debug\net7.0\appsettings.json
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\bin\Debug\net7.0\Activity.staticwebassets.runtime.json
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\bin\Debug\net7.0\Activity.exe
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\bin\Debug\net7.0\Activity.deps.json
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\bin\Debug\net7.0\Activity.runtimeconfig.json
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\bin\Debug\net7.0\Activity.dll
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\bin\Debug\net7.0\Activity.pdb
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.AssemblyInfoInputs.cache
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.AssemblyInfo.cs
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.csproj.CoreCompileInputs.cache
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.RazorAssemblyInfo.cache
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.RazorAssemblyInfo.cs
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.Activity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.build.Activity.props
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Activity.props
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Activity.props
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\scopedcss\bundle\Activity.styles.css
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\scopedcss\projectbundle\Activity.bundle.scp.css
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.dll
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\refint\Activity.dll
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.pdb
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.genruntimeconfig.cache
+C:\Users\afraa\source\repos\Blazor\BookStore\Activity\obj\Debug\net7.0\ref\Activity.dll
+D:\Blazor\BookStore\Activity\bin\Debug\net7.0\appsettings.Development.json
+D:\Blazor\BookStore\Activity\bin\Debug\net7.0\appsettings.json
+D:\Blazor\BookStore\Activity\bin\Debug\net7.0\Activity.staticwebassets.runtime.json
+D:\Blazor\BookStore\Activity\bin\Debug\net7.0\Activity.exe
+D:\Blazor\BookStore\Activity\bin\Debug\net7.0\Activity.deps.json
+D:\Blazor\BookStore\Activity\bin\Debug\net7.0\Activity.runtimeconfig.json
+D:\Blazor\BookStore\Activity\bin\Debug\net7.0\Activity.dll
+D:\Blazor\BookStore\Activity\bin\Debug\net7.0\Activity.pdb
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.AssemblyInfoInputs.cache
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.AssemblyInfo.cs
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.csproj.CoreCompileInputs.cache
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.MvcApplicationPartsAssemblyInfo.cache
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.RazorAssemblyInfo.cache
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.RazorAssemblyInfo.cs
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets.build.json
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets.development.json
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.Activity.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.build.Activity.props
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Activity.props
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Activity.props
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\scopedcss\bundle\Activity.styles.css
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\scopedcss\projectbundle\Activity.bundle.scp.css
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.dll
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\refint\Activity.dll
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.pdb
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\Activity.genruntimeconfig.cache
+D:\Blazor\BookStore\Activity\obj\Debug\net7.0\ref\Activity.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\appsettings.Development.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\appsettings.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.staticwebassets.runtime.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.staticwebassets.endpoints.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.exe
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.deps.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.runtimeconfig.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.pdb
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.AssemblyInfoInputs.cache
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.AssemblyInfo.cs
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.csproj.CoreCompileInputs.cache
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.RazorAssemblyInfo.cache
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.RazorAssemblyInfo.cs
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\scopedcss\bundle\Activity.styles.css
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\scopedcss\projectbundle\Activity.bundle.scp.css
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.build.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.development.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.Activity.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.Activity.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.build.Activity.props
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Activity.props
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Activity.props
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\refint\Activity.dll
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.pdb
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.genruntimeconfig.cache
+E:\ASP.NET\C SHARP\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\ref\Activity.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\appsettings.Development.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\appsettings.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.staticwebassets.endpoints.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.staticwebassets.runtime.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.exe
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.deps.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.runtimeconfig.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.pdb
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.AssemblyInfoInputs.cache
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.AssemblyInfo.cs
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.csproj.CoreCompileInputs.cache
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.MvcApplicationPartsAssemblyInfo.cache
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.RazorAssemblyInfo.cache
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.RazorAssemblyInfo.cs
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\scopedcss\bundle\Activity.styles.css
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\scopedcss\projectbundle\Activity.bundle.scp.css
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.build.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.development.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.Activity.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.Activity.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.build.Activity.props
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Activity.props
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Activity.props
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.pack.json
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\refint\Activity.dll
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.pdb
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.genruntimeconfig.cache
+E:\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\ref\Activity.dll
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\appsettings.Development.json
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\appsettings.json
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.staticwebassets.endpoints.json
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.staticwebassets.runtime.json
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.exe
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.deps.json
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.runtimeconfig.json
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.dll
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\bin\Debug\net7.0\Activity.pdb
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.GeneratedMSBuildEditorConfig.editorconfig
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.AssemblyInfoInputs.cache
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.AssemblyInfo.cs
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.csproj.CoreCompileInputs.cache
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.MvcApplicationPartsAssemblyInfo.cache
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.RazorAssemblyInfo.cache
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.RazorAssemblyInfo.cs
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\scopedcss\bundle\Activity.styles.css
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\scopedcss\projectbundle\Activity.bundle.scp.css
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.build.json
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.development.json
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.Activity.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.Activity.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.build.Activity.props
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Activity.props
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Activity.props
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.pack.json
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.dll
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\refint\Activity.dll
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.pdb
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\Activity.genruntimeconfig.cache
+E:\MY REFERNCE\MY CLASS\Blazer\Blazor\Chapter 8\Activity\BookStore\Activity\obj\Debug\net7.0\ref\Activity.dll

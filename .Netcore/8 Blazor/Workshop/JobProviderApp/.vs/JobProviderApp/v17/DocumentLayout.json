@@ -1,0 +1,492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\pages\\joblist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\pages\\joblist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\dto\\jobproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\dto\\jobproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\model\\jobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\model\\jobprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\repository\\jobproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\repository\\jobproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\model\\jobproviderappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\model\\jobproviderappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\interface\\ijobproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\interface\\ijobproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\extension\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\migrations\\20250508050616_do.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\migrations\\20250508050616_do.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\jobproviderapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\jobproviderapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\migrations\\20250304050524_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\migrations\\20250304050524_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|e:\\my refernce\\blazer\\blazor\\chapter 8\\activity\\workshop\\jobproviderapp\\jobproviderapp\\migrations\\20250304044650_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA12D3F-DEE2-4138-BAA6-A47E0BF65F1A}|JobProviderApp\\JobProviderApp.csproj|solutionrelative:jobproviderapp\\migrations\\20250304044650_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Service\\AuthService.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Service\\AuthService.cs",
+              "RelativeToolTip": "JobProviderApp\\Service\\AuthService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:55:55.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobProviderDto.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Dto\\JobProviderDto.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Dto\\JobProviderDto.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Dto\\JobProviderDto.cs",
+              "RelativeToolTip": "JobProviderApp\\Dto\\JobProviderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:47:53.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.razor",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "JobProviderApp\\Pages\\Register.razor",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Pages\\Register.razor",
+              "RelativeToolTip": "JobProviderApp\\Pages\\Register.razor",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T05:00:17.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Service\\JobService.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Service\\JobService.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Service\\JobService.cs",
+              "RelativeToolTip": "JobProviderApp\\Service\\JobService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:14:19.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Repository\\JobRepository.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "JobProviderApp\\Repository\\JobRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:09:43.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.razor",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "JobProviderApp\\Pages\\Login.razor",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Pages\\Login.razor",
+              "RelativeToolTip": "JobProviderApp\\Pages\\Login.razor",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T05:01:54.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobList.razor",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Pages\\JobList.razor",
+              "RelativeDocumentMoniker": "JobProviderApp\\Pages\\JobList.razor",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Pages\\JobList.razor",
+              "RelativeToolTip": "JobProviderApp\\Pages\\JobList.razor",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAG0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T05:03:28.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobProvider.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Model\\JobProvider.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Model\\JobProvider.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Model\\JobProvider.cs",
+              "RelativeToolTip": "JobProviderApp\\Model\\JobProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:31:54.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobProviderRepository.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Repository\\JobProviderRepository.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Repository\\JobProviderRepository.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Repository\\JobProviderRepository.cs",
+              "RelativeToolTip": "JobProviderApp\\Repository\\JobProviderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:53:11.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobProviderAppDbContext.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Model\\JobProviderAppDbContext.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Model\\JobProviderAppDbContext.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Model\\JobProviderAppDbContext.cs",
+              "RelativeToolTip": "JobProviderApp\\Model\\JobProviderAppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:42:37.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Interface\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Interface\\IJobRepository.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Interface\\IJobRepository.cs",
+              "RelativeToolTip": "JobProviderApp\\Interface\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:08:41.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IJobservice.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Interface\\IJobservice.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Interface\\IJobservice.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Interface\\IJobservice.cs",
+              "RelativeToolTip": "JobProviderApp\\Interface\\IJobservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:13:25.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IJobProviderRepository.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Interface\\IJobProviderRepository.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Interface\\IJobProviderRepository.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Interface\\IJobProviderRepository.cs",
+              "RelativeToolTip": "JobProviderApp\\Interface\\IJobProviderRepository.cs",
+              "ViewState": "AgIAAAAAAABgy8HNfqEkwAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:52:04.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Interface\\IAuthService.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "JobProviderApp\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:54:53.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Helpers\\MappingProfile.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "JobProviderApp\\Helpers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:48:42.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Dto\\JobDto.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Dto\\JobDto.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Dto\\JobDto.cs",
+              "RelativeToolTip": "JobProviderApp\\Dto\\JobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:06:08.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Program.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Program.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Program.cs",
+              "RelativeToolTip": "JobProviderApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:41:32.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Extension\\ApplicationServiceExtension.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Extension\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "JobProviderApp\\Extension\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:56:34.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\appsettings.json",
+              "RelativeDocumentMoniker": "JobProviderApp\\appsettings.json",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\appsettings.json",
+              "RelativeToolTip": "JobProviderApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T04:40:10.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Job.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Model\\Job.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Model\\Job.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Model\\Job.cs",
+              "RelativeToolTip": "JobProviderApp\\Model\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:04:40.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "JobProviderApp\\Shared\\NavMenu.razor",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "JobProviderApp\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T05:19:07.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "JobProviderApp\\Shared\\MainLayout.razor",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "JobProviderApp\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T05:51:56.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.razor",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\App.razor",
+              "RelativeDocumentMoniker": "JobProviderApp\\App.razor",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\App.razor",
+              "RelativeToolTip": "JobProviderApp\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T04:49:06.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\_Imports.razor",
+              "RelativeDocumentMoniker": "JobProviderApp\\_Imports.razor",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\_Imports.razor",
+              "RelativeToolTip": "JobProviderApp\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T04:48:23.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250508050616_do.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Migrations\\20250508050616_do.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Migrations\\20250508050616_do.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Migrations\\20250508050616_do.cs",
+              "RelativeToolTip": "JobProviderApp\\Migrations\\20250508050616_do.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:06:18.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JobProviderApp.csproj",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
+              "RelativeDocumentMoniker": "JobProviderApp\\JobProviderApp.csproj",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\JobProviderApp.csproj",
+              "RelativeToolTip": "JobProviderApp\\JobProviderApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T04:47:31.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250304050524_Second.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Migrations\\20250304050524_Second.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Migrations\\20250304050524_Second.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Migrations\\20250304050524_Second.cs",
+              "RelativeToolTip": "JobProviderApp\\Migrations\\20250304050524_Second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T05:05:25.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250304044650_Initial.cs",
+              "DocumentMoniker": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Migrations\\20250304044650_Initial.cs",
+              "RelativeDocumentMoniker": "JobProviderApp\\Migrations\\20250304044650_Initial.cs",
+              "ToolTip": "E:\\MY REFERNCE\\Blazer\\Blazor\\Chapter 8\\Activity\\Workshop\\JobProviderApp\\JobProviderApp\\Migrations\\20250304044650_Initial.cs",
+              "RelativeToolTip": "JobProviderApp\\Migrations\\20250304044650_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:46:50.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
