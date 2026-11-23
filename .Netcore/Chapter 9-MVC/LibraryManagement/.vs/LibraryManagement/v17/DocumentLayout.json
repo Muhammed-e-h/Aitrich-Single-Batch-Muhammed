@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\migrations\\20250507053911_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\migrations\\20250507053911_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|e:\\asp.net\\c sharp\\mvc\\chapter 9\\activity\\librarymanagement\\librarymanagement\\migrations\\20260128080221_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF41954-3B5D-41B8-AEC8-CD19E1F2E859}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\migrations\\20260128080221_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:37:18.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Details.cshtml",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T05:44:13.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Index.cshtml",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T05:41:45.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T05:45:19.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\appsettings.json",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeToolTip": "LibraryManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T05:34:08.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Book.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:32:58.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LibraryManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:34:40.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:40:20.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T05:44:46.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Create.cshtml",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T05:42:57.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T05:43:39.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260128080221_second.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Migrations\\20260128080221_second.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Migrations\\20260128080221_second.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Migrations\\20260128080221_second.cs",
+              "RelativeToolTip": "LibraryManagement\\Migrations\\20260128080221_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:02:23.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250507053911_Initial.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Migrations\\20250507053911_Initial.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Migrations\\20250507053911_Initial.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\Migrations\\20250507053911_Initial.cs",
+              "RelativeToolTip": "LibraryManagement\\Migrations\\20250507053911_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T05:39:12.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryManagement.csproj",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeDocumentMoniker": "LibraryManagement\\LibraryManagement.csproj",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\Chapter 9\\Activity\\LibraryManagement\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeToolTip": "LibraryManagement\\LibraryManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T05:33:56.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

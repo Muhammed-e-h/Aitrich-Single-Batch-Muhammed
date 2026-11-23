@@ -1,0 +1,624 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\controllers\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\controllers\\jobprovidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\exceptions\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\exceptions\\serviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\services\\publicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\services\\publicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\interface\\ipublicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\interface\\ipublicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\extention\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\extention\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\models\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\models\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\interface\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\interface\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\dto\\companymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\dto\\companymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\dto\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\views\\jobprovider\\postjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\views\\jobprovider\\postjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\views\\jobprovider\\alljobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\views\\jobprovider\\alljobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\views\\public\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\views\\public\\jobproviderregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\views\\public\\jobproviderregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\mvcworkshophireme.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\mvcworkshophireme.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|e:\\asp.net\\c sharp\\mvc\\workshop\\mvcworkshophireme\\mvcworkshophireme\\migrations\\20260204153013_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF48E28-4E58-4F84-BABF-12C9CD902A96}|MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj|solutionrelative:mvcworkshophireme\\migrations\\20260204153013_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Services\\JobService.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Services\\JobService.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Services\\JobService.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Services\\JobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:14:20.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PublicService.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Services\\PublicService.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Services\\PublicService.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Services\\PublicService.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Services\\PublicService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:14:39.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Services\\UserService.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Services\\UserService.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:14:53.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceException.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Exceptions\\ServiceException.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Exceptions\\ServiceException.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Exceptions\\ServiceException.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Exceptions\\ServiceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:43:28.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobProviderController.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Controllers\\JobProviderController.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Controllers\\JobProviderController.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Controllers\\JobProviderController.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Controllers\\JobProviderController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:19:03.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicController.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Controllers\\PublicController.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Controllers\\PublicController.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Controllers\\PublicController.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Controllers\\PublicController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:19:50.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Interface\\IUserService.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Interface\\IUserService.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:56:55.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Interface\\IUserRepository.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:56:05.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPublicService.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Interface\\IPublicService.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Interface\\IPublicService.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Interface\\IPublicService.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Interface\\IPublicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:55:11.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Repository\\UserRepository.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:12:56.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Repository\\JobRepository.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Repository\\JobRepository.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Repository\\JobRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:09:41.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Extention\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Extention\\ApplicationServiceExtension.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Extention\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Extention\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:18:27.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Program.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Program.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Program.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:23:35.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\appsettings.json",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\appsettings.json",
+              "RelativeToolTip": "MvcWorkshopHireMe\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-04T15:19:32.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Models\\User.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\User.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Models\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvzoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:04:50.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Models\\Skill.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Skill.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Models\\Skill.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:04:38.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Qualification.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Qualification.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Models\\Qualification.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Qualification.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Models\\Qualification.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:04:27.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Job.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Models\\Job.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Job.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Models\\Job.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA4wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:04:08.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Interview.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Models\\Interview.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Interview.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Models\\Interview.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:03:55.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Experience.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Models\\Experience.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Experience.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Models\\Experience.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:03:41.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Company.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Models\\Company.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Company.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Models\\Company.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:02:46.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Application.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Models\\Application.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\Application.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Models\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:02:27.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Interface\\IJobService.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Interface\\IJobService.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Interface\\IJobService.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Interface\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:00:26.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Interface\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Interface\\IJobRepository.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Interface\\IJobRepository.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Interface\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T16:01:49.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Enums\\Roles.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Enums\\Roles.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:14:25.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CompanyMemberDto.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Dto\\CompanyMemberDto.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Dto\\CompanyMemberDto.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Dto\\CompanyMemberDto.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Dto\\CompanyMemberDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:32:13.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Dto\\JobDto.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Dto\\JobDto.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Dto\\JobDto.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Dto\\JobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:35:21.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Dto\\UserDto.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Dto\\UserDto.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Dto\\UserDto.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:35:06.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Views\\Public\\Login.cshtml",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Views\\Public\\Login.cshtml",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Views\\Public\\Login.cshtml",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Views\\Public\\Login.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T16:29:53.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JobProviderRegistration.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Views\\Public\\JobProviderRegistration.cshtml",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Views\\Public\\JobProviderRegistration.cshtml",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Views\\Public\\JobProviderRegistration.cshtml",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Views\\Public\\JobProviderRegistration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T16:28:13.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AllJobs.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Views\\JobProvider\\AllJobs.cshtml",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Views\\JobProvider\\AllJobs.cshtml",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Views\\JobProvider\\AllJobs.cshtml",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Views\\JobProvider\\AllJobs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T16:24:56.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PostJob.cshtml",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Views\\JobProvider\\PostJob.cshtml",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Views\\JobProvider\\PostJob.cshtml",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Views\\JobProvider\\PostJob.cshtml",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Views\\JobProvider\\PostJob.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T16:26:44.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Models\\AppDbContext.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:03:22.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MvcWorkshopHireMe.csproj",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj",
+              "RelativeToolTip": "MvcWorkshopHireMe\\MvcWorkshopHireMe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-04T15:18:00.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Helper\\MappingProfile.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:48:23.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20260204153013_Initial.cs",
+              "DocumentMoniker": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Migrations\\20260204153013_Initial.cs",
+              "RelativeDocumentMoniker": "MvcWorkshopHireMe\\Migrations\\20260204153013_Initial.cs",
+              "ToolTip": "E:\\ASP.NET\\C SHARP\\MVC\\WorkShop\\MvcWorkshopHireMe\\MvcWorkshopHireMe\\Migrations\\20260204153013_Initial.cs",
+              "RelativeToolTip": "MvcWorkshopHireMe\\Migrations\\20260204153013_Initial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:30:16.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
